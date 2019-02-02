@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+  Copyright : 2012 Freescale, Inc. All Rights Reserved.
+
+  This configuration file is a standard interchange file that's format is maintained
+  by Freescale, Inc. The configuration file is a derivative work
+  of the Processor Expert Software technology licensed for use by customers
+  as defined as SOFTWARE in the product's End User License Agreement. This file
+  and format are free to use and distribute for read-only purposes. You do not have
+  the right to create these files or modify this format or use for any purposes other
+  than interchange with the Processor Expert Software technology.
+
+  THIS SOFTWARE IS PROVIDED "AS IS".
+
+  NO WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT
+  LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+  PURPOSE APPLY TO THIS SOFTWARE. IN NO EVENT WILL FREESCALE BE LIABLE, WHETHER
+  IN CONTRACT, TORT, OR OTHERWISE, FOR ANY INCIDENTAL, SPECIAL, INDIRECT,
+  CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR
+  ANY LOSS OF USE, LOSS OF TIME, INCONVENIENCE, COMMERCIAL LOSS, OR LOST PROFITS,
+  SAVINGS, OR REVENUES TO THE FULL EXTENT SUCH MAY BE DISCLAIMED BY LAW.
+
+-->
+<export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ProjectInfoDescription.xsd">
+  <PROCESSOR>
+    <DeviceID>MK10DN64xxx5</DeviceID>
+    <CoreNum>1</CoreNum>
+    <Cores>
+      <Core>
+        <CoreSet>Cortex-M4</CoreSet>
+      </Core>
+    </Cores>
+    <SRAMsize>16k</SRAMsize>
+    <FLASHsize>64k</FLASHsize>
+  </PROCESSOR>
+  <PATHS>
+    <LinkerCommandFile>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Project_Settings\Linker_Files\ProcessorExpert.ld</LinkerCommandFile>
+    <IncludePaths>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\config\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\core\M4\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\compiler\cwgcc\</Path>
+      <Path>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\</Path>
+      <Path>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\iofiles\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Sources\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\</Path>
+    </IncludePaths>
+    <SourceCodePaths>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\config\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Project_Settings\Startup_Code\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Sources\</Path>
+      <Path>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\core\M4\</Path>
+    </SourceCodePaths>
+  </PATHS>
+  <FILES>
+    <GeneratedCs>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\Cpu.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\MQX1.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\PE_LDD.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\SystemTimer1.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\Vectors.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\config\task_template_list.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\idletask.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\int.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\klog.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\lwevent.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\lwlog.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\lwmem.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\lwmsgq.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\lwsem.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\lwtimer.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\mqx_utils.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\mqxlite.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\mutex.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\qu_test.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\sched.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\task.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\kernel\time_ticks.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\cortex.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\int_gkis.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\int_inst.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\int_kisr.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\int_pvta.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\int_unx.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\int_vtab.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\int_xcpt.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\mem_zero.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_iinit.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_supp.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_tiad.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_tinm.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_tipr.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_tisu.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\sc_irdyq.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\stack_bu.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\stack_de.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\stack_st.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Project_Settings\Startup_Code\__arm_end.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Project_Settings\Startup_Code\__arm_start.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Sources\Events.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Sources\main.c</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Sources\mqx_tasks.c</PathName>
+    </GeneratedCs>
+    <GeneratedHs>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\Cpu.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\iofiles\MK10D5.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\IO_Map.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\MQX1.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\ADC_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\CMP_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\CMT_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\CRC_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\DMAMUX_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\DMA_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\EWM_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\FMC_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\FTFL_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\FTM_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\GPIO_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\I2C_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\LPTMR_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\PDB_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\PDD_Types.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\PIT_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\PORT_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\RTC_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\SAI_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\SIM_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\SPI_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\SysTick_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\UART_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\VREF_PDD.h</PathName>
+      <PathName>C:\Freescale\CW MCU v10.6.4\MCU\ProcessorExpert\lib\Kinetis\pdd\inc\WDOG_PDD.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\PE_Const.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\PE_Error.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\PE_LDD.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\PE_Types.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Generated_Code\SystemTimer1.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\config\task_template_list.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\config\user_config.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\klog.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\log.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwevent.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwevent_prv.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwlog.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwlog_prv.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwmem.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwmem_prv.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwmsgq.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwmsgq_prv.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwsem.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwsem_prv.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwtimer.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\lwtimer_prv.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\mqx_cnfg.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\mqx_cpudef.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\mqx_inc.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\mqx_macros.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\mqx_str.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\mqxlite.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\mqxlite_cnfg.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\mqxlite_prv.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\mutex.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\mutex_prv.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\include\queue.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\compiler\cwgcc\asm_mac.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\compiler\cwgcc\comp.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\cortex.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\kinetis.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_comp.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_cpu.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_cpudef.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_prv.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_supp.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psp_ticks.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psplite.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\psptypes.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Project_Settings\Startup_Code\runtime_configuration.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Sources\Events.h</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\Sources\mqx_tasks.h</PathName>
+    </GeneratedHs>
+    <GeneratedASMs>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\core\M4\boot.S</PathName>
+      <PathName>C:\Workfolder\1\phos\PHOS_WS\rtos_check\MQXLITE\psp\cortex_m\core\M4\dispatch.S</PathName>
+    </GeneratedASMs>
+  </FILES>
+  <OPTIONS>
+  </OPTIONS>
+</export>

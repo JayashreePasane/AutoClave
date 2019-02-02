@@ -1,0 +1,2403 @@
+Archive member included because of file (symbol)
+
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+                              ./Sources/Application.o (sprintf)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+                              ./MQXLITE/psp/cortex_m/psp_tipr.o (printf)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (exit)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (memset)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+                              ./MQXLITE/kernel/task.o (strncmp)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o) (__fill_mem)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+                              (__pformatter_)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+                              (__sformatter)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o) (isspace)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o) (vsnprintf)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o) (__FileWrite)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o) (__files)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o) (__prep_buffer)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o) (fflush)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o) (__strtoul)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o) (strchr)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o) (memcpy)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o) (strlen)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o) (__memrchr)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o) (memchr)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (__init_cpp)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o) (__destroy_global_chain)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (__copy_rom_sections_to_ram)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o) (__read_console)
+
+Allocating common symbols
+Common symbol       size              file
+
+_mqx_zero_tick_struct
+                    0xc               ./MQXLITE/kernel/mqxlite.o
+Target_T            0x4               ./Sources/Application.o
+_mqx_system_stack   0x4               ./MQXLITE/kernel/mqxlite.o
+_mqx_kernel_data_struct
+                    0x234             ./Generated_Code/MQX1.o
+mqx_interrupt_stack
+                    0x110             ./Generated_Code/MQX1.o
+Adc_Samples         0x60              ./Sources/ADC_Handler.o
+Task3_task_stack    0x288             ./Generated_Code/MQX1.o
+stdout_buff         0x40              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+_tad_task_at_flag   0x4               ./MQXLITE/kernel/task.o
+Dry_Time            0x4               ./Sources/Application.o
+key_status          0x4               ./Sources/Keyhandler.o
+mqx_static_ready_queue
+                    0xa0              ./Generated_Code/MQX1.o
+mqx_static_isr_table
+                    0x78              ./Generated_Code/MQX1.o
+SR_reg              0x1               ./Generated_Code/Cpu.o
+mqx_idle_task_stack
+                    0x168             ./Generated_Code/MQX1.o
+Ster_Time           0x4               ./Sources/Application.o
+stdin_buff          0x40              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+Task2_task_stack    0x488             ./Generated_Code/MQX1.o
+Task1_task_stack    0x288             ./Generated_Code/MQX1.o
+Display_Buffer      0x20              ./Sources/Display_HL.o
+stderr_buff         0x40              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./Generated_Code/Vectors.o
+ .data          0x00000000        0x0 ./Generated_Code/Vectors.o
+ .bss           0x00000000        0x0 ./Generated_Code/Vectors.o
+ .text          0x00000000        0x0 ./Generated_Code/SystemTimer1.o
+ .data          0x00000000        0x0 ./Generated_Code/SystemTimer1.o
+ .bss           0x00000000        0x0 ./Generated_Code/SystemTimer1.o
+ .text.SystemTimer1_Deinit
+                0x00000000       0x50 ./Generated_Code/SystemTimer1.o
+ .text.SystemTimer1_Disable
+                0x00000000       0x30 ./Generated_Code/SystemTimer1.o
+ .text.SystemTimer1_ResetCounter
+                0x00000000       0x60 ./Generated_Code/SystemTimer1.o
+ .text          0x00000000        0x0 ./Generated_Code/PE_LDD.o
+ .data          0x00000000        0x0 ./Generated_Code/PE_LDD.o
+ .bss           0x00000000        0x0 ./Generated_Code/PE_LDD.o
+ .rodata.PE_CpuClockConfigurations
+                0x00000000       0x28 ./Generated_Code/PE_LDD.o
+ .text.PE_FillMemory
+                0x00000000       0x30 ./Generated_Code/PE_LDD.o
+ .text.PE_PeripheralUsed
+                0x00000000       0x34 ./Generated_Code/PE_LDD.o
+ .text.LDD_SetClockConfiguration
+                0x00000000       0x14 ./Generated_Code/PE_LDD.o
+ .text          0x00000000        0x0 ./Generated_Code/MQX1.o
+ .data          0x00000000        0x0 ./Generated_Code/MQX1.o
+ .bss           0x00000000        0x0 ./Generated_Code/MQX1.o
+ .text.PEX_RTOS_InstallInterrupt
+                0x00000000       0x34 ./Generated_Code/MQX1.o
+ .text          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .data          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .bss           0x00000000        0x0 ./Generated_Code/Cpu.o
+ .bss.SR_lock   0x00000000        0x1 ./Generated_Code/Cpu.o
+ .text.Cpu_SetBASEPRI
+                0x00000000       0x18 ./Generated_Code/Cpu.o
+ COMMON         0x00000000        0x1 ./Generated_Code/Cpu.o
+ .text          0x00000000        0x0 ./MQXLITE/config/task_template_list.o
+ .data          0x00000000        0x0 ./MQXLITE/config/task_template_list.o
+ .bss           0x00000000        0x0 ./MQXLITE/config/task_template_list.o
+ .debug_info    0x00000000       0x7d ./MQXLITE/config/task_template_list.o
+ .debug_abbrev  0x00000000       0x28 ./MQXLITE/config/task_template_list.o
+ .debug_aranges
+                0x00000000       0x18 ./MQXLITE/config/task_template_list.o
+ .debug_macinfo
+                0x00000000    0x4acac ./MQXLITE/config/task_template_list.o
+ .debug_line    0x00000000      0x4b8 ./MQXLITE/config/task_template_list.o
+ .debug_str     0x00000000      0x139 ./MQXLITE/config/task_template_list.o
+ .comment       0x00000000       0x7a ./MQXLITE/config/task_template_list.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/config/task_template_list.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/time_ticks.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/time_ticks.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/time_ticks.o
+ .text._time_delay_for
+                0x00000000       0x80 ./MQXLITE/kernel/time_ticks.o
+ .text._time_delay_until
+                0x00000000       0x78 ./MQXLITE/kernel/time_ticks.o
+ .text._time_diff_ticks
+                0x00000000       0x3c ./MQXLITE/kernel/time_ticks.o
+ .text._time_diff_ticks_int32
+                0x00000000       0x44 ./MQXLITE/kernel/time_ticks.o
+ .text._time_dequeue
+                0x00000000       0x84 ./MQXLITE/kernel/time_ticks.o
+ .text._time_dequeue_td
+                0x00000000       0x74 ./MQXLITE/kernel/time_ticks.o
+ .text._time_get_elapsed_ticks
+                0x00000000       0xb0 ./MQXLITE/kernel/time_ticks.o
+ .text._time_get_elapsed_ticks_fast
+                0x00000000       0x5c ./MQXLITE/kernel/time_ticks.o
+ .text._time_get_hwticks
+                0x00000000       0x40 ./MQXLITE/kernel/time_ticks.o
+ .text._time_get_ticks
+                0x00000000       0x98 ./MQXLITE/kernel/time_ticks.o
+ .text._time_get_hwticks_per_tick
+                0x00000000       0x1c ./MQXLITE/kernel/time_ticks.o
+ .text._time_init_ticks
+                0x00000000       0x6c ./MQXLITE/kernel/time_ticks.o
+ .text._time_set_ticks
+                0x00000000       0x6c ./MQXLITE/kernel/time_ticks.o
+ .text._time_set_timer_vector
+                0x00000000       0x24 ./MQXLITE/kernel/time_ticks.o
+ .text._time_get_ticks_per_sec
+                0x00000000       0x1c ./MQXLITE/kernel/time_ticks.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/task.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/task.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/task.o
+ .text._task_abort_internal
+                0x00000000      0x194 ./MQXLITE/kernel/task.o
+ .text._task_abort
+                0x00000000       0x20 ./MQXLITE/kernel/task.o
+ .text._task_create_internal
+                0x00000000      0x104 ./MQXLITE/kernel/task.o
+ .text._task_create
+                0x00000000       0x2c ./MQXLITE/kernel/task.o
+ .text._task_create_at
+                0x00000000       0xf0 ./MQXLITE/kernel/task.o
+ .text._task_get_id_from_name
+                0x00000000       0x9c ./MQXLITE/kernel/task.o
+ .text._task_get_template_ptr
+                0x00000000       0x2c ./MQXLITE/kernel/task.o
+ .text._task_get_template_index
+                0x00000000       0x78 ./MQXLITE/kernel/task.o
+ .text._task_get_id_from_td
+                0x00000000       0x24 ./MQXLITE/kernel/task.o
+ .text._task_get_index_from_id
+                0x00000000       0x2c ./MQXLITE/kernel/task.o
+ .text._task_get_parameter
+                0x00000000       0x28 ./MQXLITE/kernel/task.o
+ .text._task_get_parameter_for
+                0x00000000       0x24 ./MQXLITE/kernel/task.o
+ .text._task_get_parameter_internal
+                0x00000000       0x20 ./MQXLITE/kernel/task.o
+ .text._task_set_parameter
+                0x00000000       0x30 ./MQXLITE/kernel/task.o
+ .text._task_set_parameter_for
+                0x00000000       0x34 ./MQXLITE/kernel/task.o
+ .text._task_set_parameter_internal
+                0x00000000       0x2c ./MQXLITE/kernel/task.o
+ .text._task_get_priority
+                0x00000000       0x38 ./MQXLITE/kernel/task.o
+ .text._task_set_priority
+                0x00000000       0xfc ./MQXLITE/kernel/task.o
+ .text._task_ready
+                0x00000000       0xc8 ./MQXLITE/kernel/task.o
+ .text._task_restart_func
+                0x00000000      0x308 ./MQXLITE/kernel/task.o
+ .text._task_restart
+                0x00000000       0x28 ./MQXLITE/kernel/task.o
+ .text._task_stop_preemption
+                0x00000000       0x30 ./MQXLITE/kernel/task.o
+ .text._task_start_preemption
+                0x00000000       0x34 ./MQXLITE/kernel/task.o
+ .text._task_check_stack
+                0x00000000       0x38 ./MQXLITE/kernel/task.o
+ .text._task_get_creator
+                0x00000000       0x1c ./MQXLITE/kernel/task.o
+ .text._task_get_error
+                0x00000000       0x28 ./MQXLITE/kernel/task.o
+ .text._task_get_error_ptr
+                0x00000000       0x2c ./MQXLITE/kernel/task.o
+ .text._task_get_id
+                0x00000000       0x1c ./MQXLITE/kernel/task.o
+ .text._task_build_internal
+                0x00000000       0xc4 ./MQXLITE/kernel/task.o
+ .text._task_exiting_function_internal
+                0x00000000        0xc ./MQXLITE/kernel/task.o
+ .text._task_sync_priority_internal
+                0x00000000       0x18 ./MQXLITE/kernel/task.o
+ COMMON         0x00000000        0x4 ./MQXLITE/kernel/task.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/sched.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/sched.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/sched.o
+ .text._sched_get_max_priority
+                0x00000000       0x18 ./MQXLITE/kernel/sched.o
+ .text._sched_get_min_priority
+                0x00000000       0x28 ./MQXLITE/kernel/sched.o
+ .text._sched_yield
+                0x00000000       0xd4 ./MQXLITE/kernel/sched.o
+ .text._sched_boost_priority_internal
+                0x00000000       0x28 ./MQXLITE/kernel/sched.o
+ .text._sched_unboost_priority_internal
+                0x00000000       0x40 ./MQXLITE/kernel/sched.o
+ .text._sched_insert_priorityq_internal
+                0x00000000       0x60 ./MQXLITE/kernel/sched.o
+ .text._sched_get_max_priority_on_q_internal
+                0x00000000       0x38 ./MQXLITE/kernel/sched.o
+ .text._sched_set_priority_internal
+                0x00000000       0xa0 ./MQXLITE/kernel/sched.o
+ .debug_info    0x00000000      0xd03 ./MQXLITE/kernel/sched.o
+ .debug_abbrev  0x00000000      0x18e ./MQXLITE/kernel/sched.o
+ .debug_loc     0x00000000      0x19c ./MQXLITE/kernel/sched.o
+ .debug_aranges
+                0x00000000       0x58 ./MQXLITE/kernel/sched.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/kernel/sched.o
+ .debug_line    0x00000000      0x5d4 ./MQXLITE/kernel/sched.o
+ .debug_str     0x00000000      0xba6 ./MQXLITE/kernel/sched.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/sched.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/kernel/sched.o
+ .debug_frame   0x00000000      0x108 ./MQXLITE/kernel/sched.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/qu_test.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/qu_test.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/qu_test.o
+ .text._queue_test
+                0x00000000       0xb4 ./MQXLITE/kernel/qu_test.o
+ .debug_info    0x00000000      0x1a5 ./MQXLITE/kernel/qu_test.o
+ .debug_abbrev  0x00000000       0xa9 ./MQXLITE/kernel/qu_test.o
+ .debug_loc     0x00000000       0x38 ./MQXLITE/kernel/qu_test.o
+ .debug_aranges
+                0x00000000       0x20 ./MQXLITE/kernel/qu_test.o
+ .debug_macinfo
+                0x00000000    0x4b7e5 ./MQXLITE/kernel/qu_test.o
+ .debug_line    0x00000000      0x52b ./MQXLITE/kernel/qu_test.o
+ .debug_str     0x00000000      0x1ec ./MQXLITE/kernel/qu_test.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/qu_test.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/kernel/qu_test.o
+ .debug_frame   0x00000000       0x30 ./MQXLITE/kernel/qu_test.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/mutex.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/mutex.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/mutex.o
+ .debug_info    0x00000000       0x7d ./MQXLITE/kernel/mutex.o
+ .debug_abbrev  0x00000000       0x28 ./MQXLITE/kernel/mutex.o
+ .debug_aranges
+                0x00000000       0x18 ./MQXLITE/kernel/mutex.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/kernel/mutex.o
+ .debug_line    0x00000000      0x4fa ./MQXLITE/kernel/mutex.o
+ .debug_str     0x00000000      0x12c ./MQXLITE/kernel/mutex.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/mutex.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/kernel/mutex.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/mqxlite.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/mqxlite.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/mqxlite.o
+ .rodata._mqx_version
+                0x00000000        0x4 ./MQXLITE/kernel/mqxlite.o
+ .rodata._mqx_generic_revision
+                0x00000000        0x4 ./MQXLITE/kernel/mqxlite.o
+ .rodata._mqx_psp_revision
+                0x00000000        0x4 ./MQXLITE/kernel/mqxlite.o
+ .rodata._mqx_copyright
+                0x00000000        0x4 ./MQXLITE/kernel/mqxlite.o
+ .rodata._mqx_date
+                0x00000000        0x4 ./MQXLITE/kernel/mqxlite.o
+ .rodata._mqxlite_version
+                0x00000000        0x4 ./MQXLITE/kernel/mqxlite.o
+ COMMON         0x00000000       0x10 ./MQXLITE/kernel/mqxlite.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/mqx_utils.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/mqx_utils.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/mqx_utils.o
+ .text._mqx_get_kernel_data
+                0x00000000       0x20 ./MQXLITE/kernel/mqx_utils.o
+ .text._mqx_fatal_error
+                0x00000000       0x18 ./MQXLITE/kernel/mqx_utils.o
+ .text._mqx_get_cpu_type
+                0x00000000       0x24 ./MQXLITE/kernel/mqx_utils.o
+ .text._mqx_get_initialization
+                0x00000000       0x24 ./MQXLITE/kernel/mqx_utils.o
+ .text._mqx_get_exit_handler
+                0x00000000       0x10 ./MQXLITE/kernel/mqx_utils.o
+ .text._mqx_set_exit_handler
+                0x00000000       0x14 ./MQXLITE/kernel/mqx_utils.o
+ .text._mqx_get_system_task_id
+                0x00000000       0x24 ./MQXLITE/kernel/mqx_utils.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/lwtimer.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/lwtimer.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/lwtimer.o
+ .debug_info    0x00000000       0x7d ./MQXLITE/kernel/lwtimer.o
+ .debug_abbrev  0x00000000       0x28 ./MQXLITE/kernel/lwtimer.o
+ .debug_aranges
+                0x00000000       0x18 ./MQXLITE/kernel/lwtimer.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/kernel/lwtimer.o
+ .debug_line    0x00000000      0x4fc ./MQXLITE/kernel/lwtimer.o
+ .debug_str     0x00000000      0x12e ./MQXLITE/kernel/lwtimer.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/lwtimer.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/kernel/lwtimer.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/lwsem.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/lwsem.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/lwsem.o
+ .text._lwsem_create_hidden
+                0x00000000       0x28 ./MQXLITE/kernel/lwsem.o
+ .text._lwsem_destroy_internal
+                0x00000000      0x174 ./MQXLITE/kernel/lwsem.o
+ .text._lwsem_destroy
+                0x00000000       0x20 ./MQXLITE/kernel/lwsem.o
+ .text._lwsem_poll
+                0x00000000       0xb0 ./MQXLITE/kernel/lwsem.o
+ .text._lwsem_test
+                0x00000000       0xd4 ./MQXLITE/kernel/lwsem.o
+ .text._lwsem_wait_timed_internal
+                0x00000000       0xa8 ./MQXLITE/kernel/lwsem.o
+ .text._lwsem_wait_for
+                0x00000000       0xf8 ./MQXLITE/kernel/lwsem.o
+ .text._lwsem_wait_ticks
+                0x00000000      0x194 ./MQXLITE/kernel/lwsem.o
+ .text._lwsem_wait_until
+                0x00000000       0xf0 ./MQXLITE/kernel/lwsem.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/lwmsgq.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/lwmsgq.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/lwmsgq.o
+ .debug_info    0x00000000       0x7d ./MQXLITE/kernel/lwmsgq.o
+ .debug_abbrev  0x00000000       0x28 ./MQXLITE/kernel/lwmsgq.o
+ .debug_aranges
+                0x00000000       0x18 ./MQXLITE/kernel/lwmsgq.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/kernel/lwmsgq.o
+ .debug_line    0x00000000      0x4fb ./MQXLITE/kernel/lwmsgq.o
+ .debug_str     0x00000000      0x12d ./MQXLITE/kernel/lwmsgq.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/lwmsgq.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/kernel/lwmsgq.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/lwmem.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/lwmem.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/lwmem.o
+ .debug_info    0x00000000       0x7d ./MQXLITE/kernel/lwmem.o
+ .debug_abbrev  0x00000000       0x28 ./MQXLITE/kernel/lwmem.o
+ .debug_aranges
+                0x00000000       0x18 ./MQXLITE/kernel/lwmem.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/kernel/lwmem.o
+ .debug_line    0x00000000      0x4fa ./MQXLITE/kernel/lwmem.o
+ .debug_str     0x00000000      0x12c ./MQXLITE/kernel/lwmem.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/lwmem.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/kernel/lwmem.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/lwlog.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/lwlog.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/lwlog.o
+ .debug_info    0x00000000       0x7d ./MQXLITE/kernel/lwlog.o
+ .debug_abbrev  0x00000000       0x28 ./MQXLITE/kernel/lwlog.o
+ .debug_aranges
+                0x00000000       0x18 ./MQXLITE/kernel/lwlog.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/kernel/lwlog.o
+ .debug_line    0x00000000      0x4fa ./MQXLITE/kernel/lwlog.o
+ .debug_str     0x00000000      0x12c ./MQXLITE/kernel/lwlog.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/lwlog.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/kernel/lwlog.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/lwevent.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/lwevent.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/lwevent.o
+ .debug_info    0x00000000       0x7d ./MQXLITE/kernel/lwevent.o
+ .debug_abbrev  0x00000000       0x28 ./MQXLITE/kernel/lwevent.o
+ .debug_aranges
+                0x00000000       0x18 ./MQXLITE/kernel/lwevent.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/kernel/lwevent.o
+ .debug_line    0x00000000      0x4fc ./MQXLITE/kernel/lwevent.o
+ .debug_str     0x00000000      0x12e ./MQXLITE/kernel/lwevent.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/lwevent.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/kernel/lwevent.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/klog.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/klog.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/klog.o
+ .debug_info    0x00000000       0x7d ./MQXLITE/kernel/klog.o
+ .debug_abbrev  0x00000000       0x28 ./MQXLITE/kernel/klog.o
+ .debug_aranges
+                0x00000000       0x18 ./MQXLITE/kernel/klog.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/kernel/klog.o
+ .debug_line    0x00000000      0x4f9 ./MQXLITE/kernel/klog.o
+ .debug_str     0x00000000      0x12b ./MQXLITE/kernel/klog.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/klog.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/kernel/klog.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/int.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/int.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/int.o
+ .text._int_get_default_isr
+                0x00000000       0x24 ./MQXLITE/kernel/int.o
+ .text._int_get_exception_handler
+                0x00000000       0x78 ./MQXLITE/kernel/int.o
+ .text._int_get_isr
+                0x00000000       0x78 ./MQXLITE/kernel/int.o
+ .text._int_get_isr_depth
+                0x00000000       0x24 ./MQXLITE/kernel/int.o
+ .text._int_install_default_isr
+                0x00000000       0x74 ./MQXLITE/kernel/int.o
+ .text._int_install_exception_isr
+                0x00000000       0x38 ./MQXLITE/kernel/int.o
+ .text._int_install_unexpected_isr
+                0x00000000       0x38 ./MQXLITE/kernel/int.o
+ .text._int_set_exception_handler
+                0x00000000       0x9c ./MQXLITE/kernel/int.o
+ .text._int_set_isr_data
+                0x00000000       0x94 ./MQXLITE/kernel/int.o
+ .text          0x00000000        0x0 ./MQXLITE/kernel/idletask.o
+ .data          0x00000000        0x0 ./MQXLITE/kernel/idletask.o
+ .bss           0x00000000        0x0 ./MQXLITE/kernel/idletask.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/core/M4/dispatch.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/core/M4/dispatch.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/core/M4/dispatch.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/core/M4/boot.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/core/M4/boot.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/stack_st.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/stack_st.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/stack_st.o
+ .text._psp_get_stack_start
+                0x00000000       0x1c ./MQXLITE/psp/cortex_m/stack_st.o
+ .debug_info    0x00000000      0x61f ./MQXLITE/psp/cortex_m/stack_st.o
+ .debug_abbrev  0x00000000       0xf1 ./MQXLITE/psp/cortex_m/stack_st.o
+ .debug_loc     0x00000000       0x38 ./MQXLITE/psp/cortex_m/stack_st.o
+ .debug_aranges
+                0x00000000       0x20 ./MQXLITE/psp/cortex_m/stack_st.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/psp/cortex_m/stack_st.o
+ .debug_line    0x00000000      0x514 ./MQXLITE/psp/cortex_m/stack_st.o
+ .debug_str     0x00000000      0x52e ./MQXLITE/psp/cortex_m/stack_st.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/stack_st.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/psp/cortex_m/stack_st.o
+ .debug_frame   0x00000000       0x2c ./MQXLITE/psp/cortex_m/stack_st.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/stack_de.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/stack_de.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/stack_de.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/stack_bu.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/stack_bu.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/stack_bu.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .text._psp_subtract_ticks
+                0x00000000       0x6c ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .text._psp_subtract_ticks_int32
+                0x00000000       0xc4 ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .debug_info    0x00000000      0xb91 ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .debug_abbrev  0x00000000      0x14e ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .debug_loc     0x00000000       0x70 ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .debug_aranges
+                0x00000000       0x28 ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .debug_line    0x00000000      0x53f ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .debug_str     0x00000000      0xaa3 ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .debug_frame   0x00000000       0x50 ./MQXLITE/psp/cortex_m/psp_tisu.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .rodata        0x00000000       0x10 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .text._psp_print_ticks
+                0x00000000       0x68 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .debug_info    0x00000000      0x1c2 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .debug_abbrev  0x00000000       0xbd ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .debug_loc     0x00000000       0x38 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .debug_aranges
+                0x00000000       0x20 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .debug_macinfo
+                0x00000000    0x4bdc8 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .debug_line    0x00000000      0x5cc ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .debug_str     0x00000000      0x1d7 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .debug_frame   0x00000000       0x30 ./MQXLITE/psp/cortex_m/psp_tipr.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .text._psp_add_ticks
+                0x00000000       0x74 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .debug_info    0x00000000      0xb03 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .debug_abbrev  0x00000000      0x126 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .debug_loc     0x00000000       0x38 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .debug_aranges
+                0x00000000       0x20 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .debug_line    0x00000000      0x51b ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .debug_str     0x00000000      0xa60 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .debug_frame   0x00000000       0x34 ./MQXLITE/psp/cortex_m/psp_tiad.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_supp.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_supp.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_supp.o
+ .text._psp_swap2byte
+                0x00000000       0x28 ./MQXLITE/psp/cortex_m/psp_supp.o
+ .text._psp_swap4byte
+                0x00000000       0x30 ./MQXLITE/psp/cortex_m/psp_supp.o
+ .debug_info    0x00000000      0x12a ./MQXLITE/psp/cortex_m/psp_supp.o
+ .debug_abbrev  0x00000000       0x85 ./MQXLITE/psp/cortex_m/psp_supp.o
+ .debug_loc     0x00000000       0x70 ./MQXLITE/psp/cortex_m/psp_supp.o
+ .debug_aranges
+                0x00000000       0x28 ./MQXLITE/psp/cortex_m/psp_supp.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/psp/cortex_m/psp_supp.o
+ .debug_line    0x00000000      0x52d ./MQXLITE/psp/cortex_m/psp_supp.o
+ .debug_str     0x00000000      0x16e ./MQXLITE/psp/cortex_m/psp_supp.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/psp_supp.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/psp/cortex_m/psp_supp.o
+ .debug_frame   0x00000000       0x48 ./MQXLITE/psp/cortex_m/psp_supp.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/mem_zero.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/mem_zero.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/mem_zero.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .text._int_exception_isr
+                0x00000000       0xd8 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .debug_info    0x00000000      0xac9 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .debug_abbrev  0x00000000      0x126 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .debug_loc     0x00000000       0x38 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .debug_aranges
+                0x00000000       0x20 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .debug_line    0x00000000      0x530 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .debug_str     0x00000000      0xa87 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .debug_frame   0x00000000       0x34 ./MQXLITE/psp/cortex_m/int_xcpt.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_vtab.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_vtab.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_vtab.o
+ .text._int_get_vector_table
+                0x00000000       0x1c ./MQXLITE/psp/cortex_m/int_vtab.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_unx.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_unx.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_unx.o
+ .text._int_unexpected_isr
+                0x00000000       0xa8 ./MQXLITE/psp/cortex_m/int_unx.o
+ .debug_info    0x00000000      0xab4 ./MQXLITE/psp/cortex_m/int_unx.o
+ .debug_abbrev  0x00000000      0x12f ./MQXLITE/psp/cortex_m/int_unx.o
+ .debug_loc     0x00000000       0x38 ./MQXLITE/psp/cortex_m/int_unx.o
+ .debug_aranges
+                0x00000000       0x20 ./MQXLITE/psp/cortex_m/int_unx.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/psp/cortex_m/int_unx.o
+ .debug_line    0x00000000      0x527 ./MQXLITE/psp/cortex_m/int_unx.o
+ .debug_str     0x00000000      0xa69 ./MQXLITE/psp/cortex_m/int_unx.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/int_unx.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/psp/cortex_m/int_unx.o
+ .debug_frame   0x00000000       0x2c ./MQXLITE/psp/cortex_m/int_unx.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_pvta.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_pvta.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_pvta.o
+ .debug_info    0x00000000       0x7d ./MQXLITE/psp/cortex_m/int_pvta.o
+ .debug_abbrev  0x00000000       0x28 ./MQXLITE/psp/cortex_m/int_pvta.o
+ .debug_aranges
+                0x00000000       0x18 ./MQXLITE/psp/cortex_m/int_pvta.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/psp/cortex_m/int_pvta.o
+ .debug_line    0x00000000      0x503 ./MQXLITE/psp/cortex_m/int_pvta.o
+ .debug_str     0x00000000      0x135 ./MQXLITE/psp/cortex_m/int_pvta.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/int_pvta.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/psp/cortex_m/int_pvta.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .text._int_install_kernel_isr
+                0x00000000       0x20 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .debug_info    0x00000000       0xde ./MQXLITE/psp/cortex_m/int_kisr.o
+ .debug_abbrev  0x00000000       0x72 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .debug_loc     0x00000000       0x38 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .debug_aranges
+                0x00000000       0x20 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .debug_line    0x00000000      0x518 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .debug_str     0x00000000      0x180 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/int_kisr.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .debug_frame   0x00000000       0x30 ./MQXLITE/psp/cortex_m/int_kisr.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_inst.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_inst.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_inst.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .text._int_get_kernel_isr
+                0x00000000       0x40 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .debug_info    0x00000000      0x3d9 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .debug_abbrev  0x00000000      0x122 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .debug_loc     0x00000000       0x38 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .debug_aranges
+                0x00000000       0x20 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .debug_macinfo
+                0x00000000    0x4b794 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .debug_line    0x00000000      0x518 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .debug_str     0x00000000      0x2d9 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/int_gkis.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .debug_frame   0x00000000       0x30 ./MQXLITE/psp/cortex_m/int_gkis.o
+ .text          0x00000000        0x0 ./MQXLITE/psp/cortex_m/cortex.o
+ .data          0x00000000        0x0 ./MQXLITE/psp/cortex_m/cortex.o
+ .bss           0x00000000        0x0 ./MQXLITE/psp/cortex_m/cortex.o
+ .text._cortex_int_init
+                0x00000000       0xa0 ./MQXLITE/psp/cortex_m/cortex.o
+ .text._cortex_int_enable
+                0x00000000       0x54 ./MQXLITE/psp/cortex_m/cortex.o
+ .text._cortex_int_disable
+                0x00000000       0x58 ./MQXLITE/psp/cortex_m/cortex.o
+ .debug_info    0x00000000      0x43c ./MQXLITE/psp/cortex_m/cortex.o
+ .debug_abbrev  0x00000000      0x106 ./MQXLITE/psp/cortex_m/cortex.o
+ .debug_loc     0x00000000       0xa8 ./MQXLITE/psp/cortex_m/cortex.o
+ .debug_aranges
+                0x00000000       0x30 ./MQXLITE/psp/cortex_m/cortex.o
+ .debug_macinfo
+                0x00000000    0x4b798 ./MQXLITE/psp/cortex_m/cortex.o
+ .debug_line    0x00000000      0x557 ./MQXLITE/psp/cortex_m/cortex.o
+ .debug_str     0x00000000      0x2f1 ./MQXLITE/psp/cortex_m/cortex.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/cortex.o
+ .ARM.attributes
+                0x00000000       0x33 ./MQXLITE/psp/cortex_m/cortex.o
+ .debug_frame   0x00000000       0x68 ./MQXLITE/psp/cortex_m/cortex.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_start.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_start.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_start.o
+ .text.__iar_program_start
+                0x00000000        0x4 ./Project_Settings/Startup_Code/__arm_start.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_end.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_end.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_end.o
+ .text          0x00000000        0x0 ./Sources/mqx_tasks.o
+ .data          0x00000000        0x0 ./Sources/mqx_tasks.o
+ .bss           0x00000000        0x0 ./Sources/mqx_tasks.o
+ .text.Task1_task
+                0x00000000       0x1c ./Sources/mqx_tasks.o
+ .text.Task2_task
+                0x00000000       0x1c ./Sources/mqx_tasks.o
+ .text.Task3_task
+                0x00000000       0x1c ./Sources/mqx_tasks.o
+ .debug_info    0x00000000      0x126 ./Sources/mqx_tasks.o
+ .debug_abbrev  0x00000000       0x7f ./Sources/mqx_tasks.o
+ .debug_loc     0x00000000       0xa8 ./Sources/mqx_tasks.o
+ .debug_aranges
+                0x00000000       0x30 ./Sources/mqx_tasks.o
+ .debug_macinfo
+                0x00000000    0x4acbe ./Sources/mqx_tasks.o
+ .debug_line    0x00000000      0x4a7 ./Sources/mqx_tasks.o
+ .debug_str     0x00000000      0x16a ./Sources/mqx_tasks.o
+ .comment       0x00000000       0x7a ./Sources/mqx_tasks.o
+ .ARM.attributes
+                0x00000000       0x33 ./Sources/mqx_tasks.o
+ .debug_frame   0x00000000       0x70 ./Sources/mqx_tasks.o
+ .text          0x00000000        0x0 ./Sources/main.o
+ .data          0x00000000        0x0 ./Sources/main.o
+ .bss           0x00000000        0x0 ./Sources/main.o
+ .text          0x00000000        0x0 ./Sources/Timer.o
+ .data          0x00000000        0x0 ./Sources/Timer.o
+ .bss           0x00000000        0x0 ./Sources/Timer.o
+ .bss.prev_overflow_count
+                0x00000000        0x4 ./Sources/Timer.o
+ .text.Timer_Stop
+                0x00000000       0x4c ./Sources/Timer.o
+ .text.Timer_Get
+                0x00000000       0x64 ./Sources/Timer.o
+ .text          0x00000000        0x0 ./Sources/Tasks.o
+ .data          0x00000000        0x0 ./Sources/Tasks.o
+ .bss           0x00000000        0x0 ./Sources/Tasks.o
+ .text          0x00000000        0x0 ./Sources/Keyhandler.o
+ .data          0x00000000        0x0 ./Sources/Keyhandler.o
+ .bss           0x00000000        0x0 ./Sources/Keyhandler.o
+ .text          0x00000000        0x0 ./Sources/Global_Config.o
+ .data          0x00000000        0x0 ./Sources/Global_Config.o
+ .bss           0x00000000        0x0 ./Sources/Global_Config.o
+ .text          0x00000000        0x0 ./Sources/Events.o
+ .data          0x00000000        0x0 ./Sources/Events.o
+ .bss           0x00000000        0x0 ./Sources/Events.o
+ .text          0x00000000        0x0 ./Sources/Display_HL.o
+ .data          0x00000000        0x0 ./Sources/Display_HL.o
+ .bss           0x00000000        0x0 ./Sources/Display_HL.o
+ .text          0x00000000        0x0 ./Sources/Digital_IO.o
+ .data          0x00000000        0x0 ./Sources/Digital_IO.o
+ .bss           0x00000000        0x0 ./Sources/Digital_IO.o
+ .text          0x00000000        0x0 ./Sources/Application.o
+ .data          0x00000000        0x0 ./Sources/Application.o
+ .bss           0x00000000        0x0 ./Sources/Application.o
+ .text.UpdateMode
+                0x00000000       0xcc ./Sources/Application.o
+ .text          0x00000000        0x0 ./Sources/ADC_Lookup.o
+ .data          0x00000000        0x0 ./Sources/ADC_Lookup.o
+ .bss           0x00000000        0x0 ./Sources/ADC_Lookup.o
+ .data.PT1000_Lookup
+                0x00000000      0x3e8 ./Sources/ADC_Lookup.o
+ .text          0x00000000        0x0 ./Sources/ADC_Handler.o
+ .data          0x00000000        0x0 ./Sources/ADC_Handler.o
+ .bss           0x00000000        0x0 ./Sources/ADC_Handler.o
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .text.printf   0x00000000       0x2c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .debug_info    0x00000000      0x399 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .debug_abbrev  0x00000000      0x107 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .debug_loc     0x00000000       0x2c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .debug_line    0x00000000       0xb6 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .debug_str     0x00000000      0x2e9 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .debug_frame   0x00000000       0x3c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printf.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .text.strncmp  0x00000000       0x22 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .debug_info    0x00000000      0x141 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .debug_abbrev  0x00000000       0x98 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .debug_loc     0x00000000       0xed C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .debug_line    0x00000000       0x8e C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .debug_str     0x00000000      0x152 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .debug_frame   0x00000000       0x2c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strncmp.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text.isalnum  0x00000000       0x18 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text.iscntrl  0x00000000       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text.isdigit  0x00000000        0xc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text.isgraph  0x00000000       0x18 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text.islower  0x00000000       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text.isprint  0x00000000       0x18 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text.ispunct  0x00000000       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text.isupper  0x00000000       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text.isxdigit
+                0x00000000       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text.isblank  0x00000000       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text.tolower  0x00000000        0xc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .text.__fwrite
+                0x00000000      0x158 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .text.fwrite   0x00000000        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .text.__FileWrite
+                0x00000000       0x1a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .debug_info    0x00000000      0x60a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .debug_abbrev  0x00000000      0x15b C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .debug_loc     0x00000000      0x2e9 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .debug_aranges
+                0x00000000       0x30 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .debug_line    0x00000000      0x155 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .debug_str     0x00000000      0x53b C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .debug_frame   0x00000000       0x64 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fwrite.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .text.__flush_line_buffered_output_files
+                0x00000000       0x3c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .text.__flush_all
+                0x00000000       0x30 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .data.__files  0x00000000       0xcc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .debug_info    0x00000000      0x4c6 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .debug_abbrev  0x00000000       0xfa C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .debug_loc     0x00000000       0xb2 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .debug_aranges
+                0x00000000       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .debug_line    0x00000000       0xc0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .debug_str     0x00000000      0x442 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .debug_frame   0x00000000       0x48 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ COMMON         0x00000000       0xc0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ansi_files.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .text.__prep_buffer
+                0x00000000       0x16 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .text.__load_buffer
+                0x00000000       0x44 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .text.__flush_buffer
+                0x00000000       0x36 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .debug_info    0x00000000      0x45d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .debug_abbrev  0x00000000      0x142 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .debug_loc     0x00000000      0x144 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .debug_aranges
+                0x00000000       0x30 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .debug_line    0x00000000       0xfa C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .debug_str     0x00000000      0x373 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .debug_frame   0x00000000       0x58 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__buffer_io.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .text.fflush   0x00000000       0x5c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .debug_info    0x00000000      0x3e9 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .debug_abbrev  0x00000000       0xf6 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .debug_loc     0x00000000       0x54 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .debug_line    0x00000000       0xba C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .debug_str     0x00000000      0x39a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .debug_frame   0x00000000       0x2c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(fflush.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .text.__memrchr
+                0x00000000       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .debug_info    0x00000000      0x116 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .debug_abbrev  0x00000000       0x95 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .debug_loc     0x00000000       0x82 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .debug_aranges
+                0x00000000       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .debug_line    0x00000000       0x99 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .debug_str     0x00000000      0x145 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .debug_frame   0x00000000       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__memrchr.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .bss.__dso_handle
+                0x00000000        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__register_global_object
+                0x00000000       0x14 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__cxa_atexit
+                0x00000000       0x38 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__aeabi_atexit
+                0x00000000        0xa C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__register_atexit
+                0x00000000        0x8 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text.__init_hardware
+                0x00000000        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_curr_func
+                0x00000000        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_funcs
+                0x00000000      0x300 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+ .text.__flush_cache
+                0x00000000        0x2 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .text.__read_console
+                0x00000000       0x58 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .text.__write_console
+                0x00000000       0x34 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .text.__close_console
+                0x00000000        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .bss.initialized.4427
+                0x00000000        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .debug_info    0x00000000      0x347 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .debug_abbrev  0x00000000      0x11a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .debug_loc     0x00000000      0x17f C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .debug_aranges
+                0x00000000       0x30 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .debug_line    0x00000000      0x127 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .debug_str     0x00000000      0x2ff C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .ARM.attributes
+                0x00000000       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+ .debug_frame   0x00000000       0x5c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a(uart_console_io.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x000000f8         xr
+m_text           0x00000410         0x0000fbf0         xr
+m_data           0x1fffe000         0x00002000         rw
+m_data_20000000  0x20000000         0x00002000         rw
+m_cfmprotrom     0x00000400         0x00000010         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./Generated_Code/Vectors.o
+LOAD ./Generated_Code/SystemTimer1.o
+LOAD ./Generated_Code/PE_LDD.o
+LOAD ./Generated_Code/MQX1.o
+LOAD ./Generated_Code/Cpu.o
+LOAD ./MQXLITE/config/task_template_list.o
+LOAD ./MQXLITE/kernel/time_ticks.o
+LOAD ./MQXLITE/kernel/task.o
+LOAD ./MQXLITE/kernel/sched.o
+LOAD ./MQXLITE/kernel/qu_test.o
+LOAD ./MQXLITE/kernel/mutex.o
+LOAD ./MQXLITE/kernel/mqxlite.o
+LOAD ./MQXLITE/kernel/mqx_utils.o
+LOAD ./MQXLITE/kernel/lwtimer.o
+LOAD ./MQXLITE/kernel/lwsem.o
+LOAD ./MQXLITE/kernel/lwmsgq.o
+LOAD ./MQXLITE/kernel/lwmem.o
+LOAD ./MQXLITE/kernel/lwlog.o
+LOAD ./MQXLITE/kernel/lwevent.o
+LOAD ./MQXLITE/kernel/klog.o
+LOAD ./MQXLITE/kernel/int.o
+LOAD ./MQXLITE/kernel/idletask.o
+LOAD ./MQXLITE/psp/cortex_m/core/M4/dispatch.o
+LOAD ./MQXLITE/psp/cortex_m/core/M4/boot.o
+LOAD ./MQXLITE/psp/cortex_m/stack_st.o
+LOAD ./MQXLITE/psp/cortex_m/stack_de.o
+LOAD ./MQXLITE/psp/cortex_m/stack_bu.o
+LOAD ./MQXLITE/psp/cortex_m/sc_irdyq.o
+LOAD ./MQXLITE/psp/cortex_m/psp_tisu.o
+LOAD ./MQXLITE/psp/cortex_m/psp_tipr.o
+LOAD ./MQXLITE/psp/cortex_m/psp_tinm.o
+LOAD ./MQXLITE/psp/cortex_m/psp_tiad.o
+LOAD ./MQXLITE/psp/cortex_m/psp_supp.o
+LOAD ./MQXLITE/psp/cortex_m/psp_iinit.o
+LOAD ./MQXLITE/psp/cortex_m/mem_zero.o
+LOAD ./MQXLITE/psp/cortex_m/int_xcpt.o
+LOAD ./MQXLITE/psp/cortex_m/int_vtab.o
+LOAD ./MQXLITE/psp/cortex_m/int_unx.o
+LOAD ./MQXLITE/psp/cortex_m/int_pvta.o
+LOAD ./MQXLITE/psp/cortex_m/int_kisr.o
+LOAD ./MQXLITE/psp/cortex_m/int_inst.o
+LOAD ./MQXLITE/psp/cortex_m/int_gkis.o
+LOAD ./MQXLITE/psp/cortex_m/cortex.o
+LOAD ./Project_Settings/Startup_Code/__arm_start.o
+LOAD ./Project_Settings/Startup_Code/__arm_end.o
+LOAD ./Sources/mqx_tasks.o
+LOAD ./Sources/main.o
+LOAD ./Sources/Timer.o
+LOAD ./Sources/Tasks.o
+LOAD ./Sources/Keyhandler.o
+LOAD ./Sources/Global_Config.o
+LOAD ./Sources/Events.o
+LOAD ./Sources/Display_HL.o
+LOAD ./Sources/Digital_IO.o
+LOAD ./Sources/Application.o
+LOAD ./Sources/ADC_Lookup.o
+LOAD ./Sources/ADC_Handler.o
+                0x00005670                __pformatter = __pformatter_
+                [0x00005a68]                __sformatter = __sformatter
+START GROUP
+LOAD C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a
+LOAD C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libm.a
+LOAD c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m\libgcc.a
+LOAD C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a
+LOAD C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libuart.a
+END GROUP
+                0x20000000                _estack = 0x20000000
+                0x20000000                __SP_INIT = _estack
+                0x00000000                __heap_size = 0x0
+                0x00000400                __stack_size = 0x400
+
+.interrupts     0x00000000       0xf8
+                0x00000000                __vector_table = .
+                0x00000000                . = ALIGN (0x4)
+ *(.vectortable)
+ .vectortable   0x00000000       0xf8 ./Generated_Code/Vectors.o
+                0x00000000                __vect_table
+                0x000000f8                . = ALIGN (0x4)
+
+.cfmprotect     0x00000400       0x10
+                0x00000400                . = ALIGN (0x4)
+ *(.cfmconfig)
+ .cfmconfig     0x00000400       0x10 ./Generated_Code/Cpu.o
+                0x00000400                _cfm
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410     0x69cc
+                0x00000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000410       0x4c ./MQXLITE/psp/cortex_m/core/M4/boot.o
+                0x00000410                __boot
+                0x00000448                __set_MSP
+ *(.text*)
+ .text.SystemTimer1_Init
+                0x0000045c       0xac ./Generated_Code/SystemTimer1.o
+                0x0000045c                SystemTimer1_Init
+ .text.SystemTimer1_Enable
+                0x00000508       0x30 ./Generated_Code/SystemTimer1.o
+                0x00000508                SystemTimer1_Enable
+ .text.SystemTimer1_GetInputFrequency
+                0x00000538       0x18 ./Generated_Code/SystemTimer1.o
+                0x00000538                SystemTimer1_GetInputFrequency
+ .text.SystemTimer1_GetPeriodTicks
+                0x00000550       0x40 ./Generated_Code/SystemTimer1.o
+                0x00000550                SystemTimer1_GetPeriodTicks
+ .text.SystemTimer1_GetCounterValue
+                0x00000590       0x20 ./Generated_Code/SystemTimer1.o
+                0x00000590                SystemTimer1_GetCounterValue
+ .text.SystemTimer1_Interrupt
+                0x000005b0       0x38 ./Generated_Code/SystemTimer1.o
+                0x000005b0                SystemTimer1_Interrupt
+ .text.SystemTimer1_OnCounterRestart
+                0x000005e8       0x14 ./Generated_Code/MQX1.o
+                0x000005e8                SystemTimer1_OnCounterRestart
+ .text.SystemTimer1_GetTicsPerSecond
+                0x000005fc       0x2c ./Generated_Code/MQX1.o
+                0x000005fc                SystemTimer1_GetTicsPerSecond
+ .text.system_timer_init
+                0x00000628       0x84 ./Generated_Code/MQX1.o
+                0x00000628                system_timer_init
+ .text.system_timer_start
+                0x000006ac       0x28 ./Generated_Code/MQX1.o
+                0x000006ac                system_timer_start
+ .text.Cpu_INT_NMIInterrupt
+                0x000006d4        0xc ./Generated_Code/Cpu.o
+                0x000006d4                Cpu_INT_NMIInterrupt
+ .text.Cpu_Interrupt
+                0x000006e0       0x18 ./Generated_Code/Cpu.o
+                0x000006e0                Cpu_Interrupt
+ .text.__init_hardware
+                0x000006f8      0x1b8 ./Generated_Code/Cpu.o
+                0x000006f8                __init_hardware
+ .text.PE_low_level_init
+                0x000008b0       0xf8 ./Generated_Code/Cpu.o
+                0x000008b0                PE_low_level_init
+ .text._time_delay_internal
+                0x000009a8       0xd8 ./MQXLITE/kernel/time_ticks.o
+                0x000009a8                _time_delay_internal
+ .text._time_delay_ticks
+                0x00000a80       0x84 ./MQXLITE/kernel/time_ticks.o
+                0x00000a80                _time_delay_ticks
+ .text._time_notify_kernel
+                0x00000b04      0x19c ./MQXLITE/kernel/time_ticks.o
+                0x00000b04                _time_notify_kernel
+ .text._time_set_hwtick_function
+                0x00000ca0       0x2c ./MQXLITE/kernel/time_ticks.o
+                0x00000ca0                _time_set_hwtick_function
+ .text._time_set_hwticks_per_tick
+                0x00000ccc       0x24 ./MQXLITE/kernel/time_ticks.o
+                0x00000ccc                _time_set_hwticks_per_tick
+ .text._task_destroy_internal
+                0x00000cf0      0x294 ./MQXLITE/kernel/task.o
+                0x00000cf0                _task_destroy_internal
+ .text._task_destroy
+                0x00000f84       0x20 ./MQXLITE/kernel/task.o
+                0x00000f84                _task_destroy
+ .text._task_get_td
+                0x00000fa4       0xe4 ./MQXLITE/kernel/task.o
+                0x00000fa4                _task_get_td
+ .text._task_set_error
+                0x00001088       0x50 ./MQXLITE/kernel/task.o
+                0x00001088                _task_set_error
+ .text._task_exit_function_internal
+                0x000010d8       0x28 ./MQXLITE/kernel/task.o
+                0x000010d8                _task_exit_function_internal
+ .text._task_init_internal
+                0x00001100      0x1bc ./MQXLITE/kernel/task.o
+                0x00001100                _task_init_internal
+ .text._task_fill_stack_internal
+                0x000012bc       0x44 ./MQXLITE/kernel/task.o
+                0x000012bc                _task_fill_stack_internal
+ .text._task_ready_internal
+                0x00001300       0x4c ./MQXLITE/kernel/task.o
+                0x00001300                _task_ready_internal
+ .text._task_alloc_td_internal
+                0x0000134c      0x124 ./MQXLITE/kernel/task.o
+                0x0000134c                _task_alloc_td_internal
+ .text._task_set_error_td_internal
+                0x00001470       0x30 ./MQXLITE/kernel/task.o
+                0x00001470                _task_set_error_td_internal
+ .text._mqxlite_init
+                0x000014a0      0x124 ./MQXLITE/kernel/mqxlite.o
+                0x000014a0                _mqxlite_init
+ .text._mqxlite
+                0x000015c4       0xd4 ./MQXLITE/kernel/mqxlite.o
+                0x000015c4                _mqxlite
+ .text._mqx_exit
+                0x00001698       0x1c ./MQXLITE/kernel/mqxlite.o
+                0x00001698                _mqx_exit
+ .text._mqx_set_cpu_type
+                0x000016b4       0x28 ./MQXLITE/kernel/mqx_utils.o
+                0x000016b4                _mqx_set_cpu_type
+ .text._mqx_init_kernel_data_internal
+                0x000016dc      0x1dc ./MQXLITE/kernel/mqx_utils.o
+                0x000016dc                _mqx_init_kernel_data_internal
+ .text._lwsem_create_internal
+                0x000018b8       0xec ./MQXLITE/kernel/lwsem.o
+                0x000018b8                _lwsem_create_internal
+ .text._lwsem_create
+                0x000019a4       0x28 ./MQXLITE/kernel/lwsem.o
+                0x000019a4                _lwsem_create
+ .text._lwsem_post
+                0x000019cc      0x184 ./MQXLITE/kernel/lwsem.o
+                0x000019cc                _lwsem_post
+ .text._lwsem_wait
+                0x00001b50      0x154 ./MQXLITE/kernel/lwsem.o
+                0x00001b50                _lwsem_wait
+ .text._int_default_isr
+                0x00001ca4       0x64 ./MQXLITE/kernel/int.o
+                0x00001ca4                _int_default_isr
+ .text._int_disable
+                0x00001d08       0x3c ./MQXLITE/kernel/int.o
+                0x00001d08                _int_disable
+ .text._int_enable
+                0x00001d44       0x54 ./MQXLITE/kernel/int.o
+                0x00001d44                _int_enable
+ .text._int_get_isr_data
+                0x00001d98       0x78 ./MQXLITE/kernel/int.o
+                0x00001d98                _int_get_isr_data
+ .text._int_install_isr
+                0x00001e10       0x94 ./MQXLITE/kernel/int.o
+                0x00001e10                _int_install_isr
+ .text._int_init
+                0x00001ea4       0xb4 ./MQXLITE/kernel/int.o
+                0x00001ea4                _int_init
+ .text._mqx_idle_task
+                0x00001f58       0x18 ./MQXLITE/kernel/idletask.o
+                0x00001f58                _mqx_idle_task
+ .text._psp_destroy_stack_frame
+                0x00001f70       0x14 ./MQXLITE/psp/cortex_m/stack_de.o
+                0x00001f70                _psp_destroy_stack_frame
+ .text._psp_build_stack_frame
+                0x00001f84       0xa0 ./MQXLITE/psp/cortex_m/stack_bu.o
+                0x00001f84                _psp_build_stack_frame
+ .text._psp_set_kernel_disable_level
+                0x00002024       0xc4 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+                0x00002024                _psp_set_kernel_disable_level
+ .text._psp_init_readyqs
+                0x000020e8       0xc8 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+                0x000020e8                _psp_init_readyqs
+ .text._psp_normalize_ticks
+                0x000021b0       0x5c ./MQXLITE/psp/cortex_m/psp_tinm.o
+                0x000021b0                _psp_normalize_ticks
+ .text._psp_int_init
+                0x0000220c       0x2c ./MQXLITE/psp/cortex_m/psp_iinit.o
+                0x0000220c                _psp_int_init
+ .text._mem_zero
+                0x00002238      0x228 ./MQXLITE/psp/cortex_m/mem_zero.o
+                0x00002238                _mem_zero
+ .text._int_set_vector_table
+                0x00002460       0x38 ./MQXLITE/psp/cortex_m/int_vtab.o
+                0x00002460                _int_set_vector_table
+ .text._psp_int_install
+                0x00002498       0x24 ./MQXLITE/psp/cortex_m/int_inst.o
+                0x00002498                _psp_int_install
+ .text.zero_fill_bss
+                0x000024bc       0x2c ./Project_Settings/Startup_Code/__arm_start.o
+ .text.__thumb_startup
+                0x000024e8       0x30 ./Project_Settings/Startup_Code/__arm_start.o
+                0x000024e8                __thumb_startup
+ .text._ExitProcess
+                0x00002518        0xc ./Project_Settings/Startup_Code/__arm_end.o
+                0x00002518                _ExitProcess
+ .text.main     0x00002524       0x24 ./Sources/main.o
+                0x00002524                main
+ .text.Timer_HL_init
+                0x00002548       0xd0 ./Sources/Timer.o
+                0x00002548                Timer_HL_init
+ .text.TU3_Interrupt
+                0x00002618       0x84 ./Sources/Timer.o
+                0x00002618                TU3_Interrupt
+ .text.Timer_Start
+                0x0000269c      0x100 ./Sources/Timer.o
+                0x0000269c                Timer_Start
+ .text.Timer_GetState
+                0x0000279c       0x40 ./Sources/Timer.o
+                0x0000279c                Timer_GetState
+ .text.Timer_Job
+                0x000027dc      0x240 ./Sources/Timer.o
+                0x000027dc                Timer_Job
+ .text.Timer_Remaining
+                0x00002a1c       0x64 ./Sources/Timer.o
+                0x00002a1c                Timer_Remaining
+ .text.Task_10ms
+                0x00002a80       0x20 ./Sources/Tasks.o
+                0x00002a80                Task_10ms
+ .text.Task_100ms
+                0x00002aa0       0x80 ./Sources/Tasks.o
+                0x00002aa0                Task_100ms
+ .text.Task_500ms
+                0x00002b20       0x14 ./Sources/Tasks.o
+                0x00002b20                Task_500ms
+ .text.keyhandler_hw_init
+                0x00002b34       0xd4 ./Sources/Keyhandler.o
+ .text.Keyhandler_init
+                0x00002c08       0x20 ./Sources/Keyhandler.o
+                0x00002c08                Keyhandler_init
+ .text.key_debounce
+                0x00002c28      0x11c ./Sources/Keyhandler.o
+ .text.Keyhandler_poll
+                0x00002d44      0x170 ./Sources/Keyhandler.o
+                0x00002d44                Keyhandler_poll
+ .text.Keyhandler_Get
+                0x00002eb4       0x5c ./Sources/Keyhandler.o
+                0x00002eb4                Keyhandler_Get
+ .text.Cpu_OnNMIINT
+                0x00002f10        0xc ./Sources/Events.o
+                0x00002f10                Cpu_OnNMIINT
+ .text.Display_Init
+                0x00002f1c       0x44 ./Sources/Display_HL.o
+                0x00002f1c                Display_Init
+ .text.LCD_Reset
+                0x00002f60       0x8c ./Sources/Display_HL.o
+ .text.LCD_SendCmd
+                0x00002fec      0x3d8 ./Sources/Display_HL.o
+ .text.LCD_SendData
+                0x000033c4      0x3d0 ./Sources/Display_HL.o
+ .text.LCD_IO_Reset
+                0x00003794       0x94 ./Sources/Display_HL.o
+ .text.Display_WriteData
+                0x00003828       0x68 ./Sources/Display_HL.o
+ .text.Display_String
+                0x00003890       0x6c ./Sources/Display_HL.o
+                0x00003890                Display_String
+ .text.Display_Reset
+                0x000038fc        0xc ./Sources/Display_HL.o
+                0x000038fc                Display_Reset
+ .text.Display_Refresh
+                0x00003908       0x24 ./Sources/Display_HL.o
+                0x00003908                Display_Refresh
+ .text.Digital_IO_Init
+                0x0000392c      0x5f0 ./Sources/Digital_IO.o
+                0x0000392c                Digital_IO_Init
+ .text.Digital_IO_PORT_Init
+                0x00003f1c      0x2a4 ./Sources/Digital_IO.o
+                0x00003f1c                Digital_IO_PORT_Init
+ .text.Digital_IO_Get
+                0x000041c0       0x5c ./Sources/Digital_IO.o
+                0x000041c0                Digital_IO_Get
+ .text.Digital_IO_Set
+                0x0000421c       0x90 ./Sources/Digital_IO.o
+                0x0000421c                Digital_IO_Set
+ .text.Application
+                0x000042ac      0x738 ./Sources/Application.o
+                0x000042ac                Application
+ .text.Handle_Errors
+                0x000049e4       0xac ./Sources/Application.o
+ .text.DisplayMode
+                0x00004a90      0x164 ./Sources/Application.o
+ .text.DisplayCycleCount
+                0x00004bf4       0x7c ./Sources/Application.o
+ .text.RecallMode
+                0x00004c70      0x178 ./Sources/Application.o
+ .text.LastStepModulation
+                0x00004de8      0x13c ./Sources/Application.o
+ .text.Buzzer_On
+                0x00004f24       0x28 ./Sources/Application.o
+                0x00004f24                Buzzer_On
+ .text.Buzzer_Off
+                0x00004f4c       0x14 ./Sources/Application.o
+                0x00004f4c                Buzzer_Off
+ .text.Heater_On
+                0x00004f60       0x14 ./Sources/Application.o
+                0x00004f60                Heater_On
+ .text.Heater_Off
+                0x00004f74       0x14 ./Sources/Application.o
+                0x00004f74                Heater_Off
+ .text.Temperature_Get
+                0x00004f88       0xb8 ./Sources/ADC_Lookup.o
+                0x00004f88                Temperature_Get
+ .text.Pressure_Get
+                0x00005040       0xa4 ./Sources/ADC_Lookup.o
+                0x00005040                Pressure_Get
+ .text.Adc_init
+                0x000050e4      0x110 ./Sources/ADC_Handler.o
+                0x000050e4                Adc_init
+ .text.AdcPoll  0x000051f4      0x1d0 ./Sources/ADC_Handler.o
+                0x000051f4                AdcPoll
+ .text.Adc_Get  0x000053c4       0x40 ./Sources/ADC_Handler.o
+                0x000053c4                Adc_Get
+ .text.sprintf  0x00005404       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+                0x00005404                sprintf
+ .text.exit     0x00005420       0x38 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+                0x00005420                exit
+ .text.memset   0x00005458        0xc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+                0x00005458                memset
+ .text.__fill_mem
+                0x00005464       0x76 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+                0x00005464                __fill_mem
+ .text.long2str.isra.0
+                0x000054da      0x196 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .text.__pformatter_
+                0x00005670      0x3f8 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+                0x00005670                __pformatter_
+ .text.__sformatter
+                0x00005a68      0x6f4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+                0x00005a68                __sformatter
+ .text.isalpha  0x0000615c       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+                0x0000615c                isalpha
+ .text.isspace  0x00006178       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+                0x00006178                isspace
+ .text.toupper  0x00006194        0xc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+                0x00006194                toupper
+ .text.__StringWrite
+                0x000061a0       0x2a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+                0x000061a0                __StringWrite
+ *fill*         0x000061ca        0x2 00
+ .text.vsnprintf
+                0x000061cc       0x34 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+                0x000061cc                vsnprintf
+ .text.__strtoul
+                0x00006200      0x214 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+                0x00006200                __strtoul
+ .text.strchr   0x00006414       0x1a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+                0x00006414                strchr
+ .text.memcpy   0x0000642e       0x12 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+                0x0000642e                memcpy
+ .text.strlen   0x00006440       0x10 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+                0x00006440                strlen
+ .text.memchr   0x00006450       0x18 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+                0x00006450                memchr
+ .text.__init_cpp
+                0x00006468       0x4c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+                0x00006468                __init_cpp
+ .text.__fini_cpp
+                0x000064b4       0x34 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+                0x000064b4                __fini_cpp
+ .text.__destroy_global_chain
+                0x000064e8       0x18 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+                0x000064e8                __destroy_global_chain
+ .text.__init_registers
+                0x00006500       0x24 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+                0x00006500                __init_registers
+ .text.__init_user
+                0x00006524        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+                0x00006524                __init_user
+ .text.__copy_rom_section
+                0x00006528       0x44 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+                0x00006528                __copy_rom_section
+ .text.__copy_rom_sections_to_ram
+                0x0000656c       0x30 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+                0x0000656c                __copy_rom_sections_to_ram
+ *(.rodata)
+ .rodata        0x0000659c       0xdc ./MQXLITE/kernel/mqxlite.o
+ .rodata        0x00006678       0x10 ./MQXLITE/kernel/mqx_utils.o
+ .rodata        0x00006688       0x40 ./Sources/Tasks.o
+ .rodata        0x000066c8      0x110 ./Sources/Application.o
+ *(.rodata*)
+ .rodata.MQX_init_struct
+                0x000067d8       0x24 ./Generated_Code/MQX1.o
+                0x000067d8                MQX_init_struct
+ .rodata._mqx_version_number
+                0x000067fc        0x4 ./MQXLITE/kernel/mqxlite.o
+                0x000067fc                _mqx_version_number
+ .rodata._mqx_vendor
+                0x00006800        0x4 ./MQXLITE/kernel/mqxlite.o
+                0x00006800                _mqx_vendor
+ .rodata._mqx_path
+                0x00006804        0x4 ./MQXLITE/kernel/mqxlite.o
+                0x00006804                _mqx_path
+ .rodata._mqxlite_version_number
+                0x00006808        0x4 ./MQXLITE/kernel/mqxlite.o
+                0x00006808                _mqxlite_version_number
+ .rodata.MQX_template_list
+                0x0000680c       0x70 ./Sources/Tasks.o
+                0x0000680c                MQX_template_list
+ .rodata.Digital_IO_Pins
+                0x0000687c       0xdc ./Sources/Global_Config.o
+                0x0000687c                Digital_IO_Pins
+ .rodata.Display_IO
+                0x00006958       0x78 ./Sources/Global_Config.o
+                0x00006958                Display_IO
+ .rodata.key_list
+                0x000069d0       0x40 ./Sources/Global_Config.o
+                0x000069d0                key_list
+ .rodata.ADC_Config
+                0x00006a10       0x70 ./Sources/Global_Config.o
+                0x00006a10                ADC_Config
+ .rodata.str1.1
+                0x00006a80        0x1 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .rodata.CSWTCH.20
+                0x00006a81        0x5 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .rodata.CSWTCH.21
+                0x00006a86        0x5 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .rodata.__aeabi_ctype_table_C
+                0x00006a8b      0x101 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+                0x00006a8b                __aeabi_ctype_table_C
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x00006b8c                . = ALIGN (0x4)
+ *(KERNEL)
+ KERNEL         0x00006b8c      0x250 ./MQXLITE/psp/cortex_m/core/M4/dispatch.o
+                0x00006b8c                _sched_start_internal
+                0x00006b90                _sched_run_internal
+                0x00006b96                _sched_check_scheduler_internal
+                0x00006bb4                _sched_execute_scheduler_internal
+                0x00006bb8                _mqx_api_call
+                0x00006bbc                _task_block
+                0x00006bc0                _svc_handler
+                0x00006c42                _pend_svc
+                0x00006caa                _int_kernel_isr
+                0x00006d32                _psp_exception_return
+                0x00006d6c                _psp_save_fp_context_internal
+                0x00006d6e                _mem_test_and_set
+                0x00006d8c                __get_PSP
+                0x00006d92                __get_MSP
+                0x00006d9e                __get_PSR
+                0x00006da4                __enable_interrupt
+                0x00006da8                __disable_interrupt
+                0x00006dac                __get_LR
+                0x00006db0                __get_PC
+                0x00006db4                __get_CONTROL
+                0x00000000                __VECTOR_TABLE_START = __vector_table
+                0x00006ddc                . = ALIGN (0x4)
+ *(.rdata)
+                0x00006ddc                . = ALIGN (0x4)
+ *(.exception)
+                0x00006ddc                . = ALIGN (0x4)
+                0x00006ddc                __exception_table_start__ = .
+                0x00006ddc                __exception_table_end__ = .
+                0x00006ddc                __sinit__ = .
+                0x00006ddc                _etext = .
+
+.vfp11_veneer   0x00006ddc        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00006ddc        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00006ddc        0x0
+ .iplt          0x00000000        0x0 ./Generated_Code/Vectors.o
+
+.rel.dyn        0x00006ddc        0x0
+ .rel.iplt      0x00000000        0x0 ./Generated_Code/Vectors.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00006ddc        0x0
+                0x00006ddc                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00006ddc                __exidx_end = .
+
+.ctors          0x00006ddc        0x0
+                0x00006ddc                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x00006ddc                __CTOR_END__ = .
+
+.dtors          0x00006ddc        0x0
+                0x00006ddc                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00006ddc                __DTOR_END__ = .
+
+.preinit_array  0x00006ddc        0x0
+                0x00006ddc                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x00006ddc                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00006ddc        0x0
+                0x00006ddc                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x00006ddc                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00006ddc        0x0
+                0x00006ddc                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+                0x00006ddc                PROVIDE (__fini_array_end, .)
+                0x00006ddc                ___ROM_AT = .
+
+.data           0x1fffe000      0x17c load address 0x00006ddc
+                0x1fffe000                . = ALIGN (0x4)
+                0x1fffe000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.mqx_task_stack_pointers
+                0x1fffe000       0x10 ./Generated_Code/MQX1.o
+                0x1fffe000                mqx_task_stack_pointers
+ .data._mqx_kernel_data
+                0x1fffe010        0x4 ./MQXLITE/kernel/mqxlite.o
+                0x1fffe010                _mqx_kernel_data
+ .data.pt1000   0x1fffe014      0x128 ./Sources/ADC_Lookup.o
+                0x1fffe014                pt1000
+ .data.mpx5700  0x1fffe13c       0x40 ./Sources/ADC_Lookup.o
+                0x1fffe13c                mpx5700
+                0x1fffe17c                . = ALIGN (0x4)
+                0x1fffe17c                _edata = .
+                0x0000017c                ___data_size = (_edata - _sdata)
+                0x00006f58                ___m_data_20000000_ROMStart = (___ROM_AT + SIZEOF (.data))
+
+.igot.plt       0x1fffe17c        0x0 load address 0x00006f58
+ .igot.plt      0x00000000        0x0 ./Generated_Code/Vectors.o
+
+.m_data_20000000
+                0x20000000        0x0 load address 0x00006f58
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                ___m_data_20000000_RAMStart = .
+ *(.m_data_20000000)
+                0x20000000                ___m_data_20000000_RAMEnd = .
+                0x20000000                . = ALIGN (0x4)
+                0x00000000                ___m_data_20000000_ROMSize = (___m_data_20000000_RAMEnd - ___m_data_20000000_RAMStart)
+                0x20000000                . = ALIGN (0x4)
+
+.bss            0x1fffe17c     0x1088 load address 0x00006f58
+                0x1fffe17c                __START_BSS = .
+                0x1fffe17c                PROVIDE (__bss_start__, __START_BSS)
+ *(.bss)
+ *(.bss*)
+ .bss.DeviceDataPrv__DEFAULT_RTOS_ALLOC
+                0x1fffe17c        0xc ./Generated_Code/SystemTimer1.o
+ .bss.PE_LDD_DeviceDataList
+                0x1fffe188        0x4 ./Generated_Code/PE_LDD.o
+                0x1fffe188                PE_LDD_DeviceDataList
+ .bss.SystemTimerDeviceDataPtr
+                0x1fffe18c        0x4 ./Generated_Code/MQX1.o
+ .bss.argv      0x1fffe190        0x4 ./Project_Settings/Startup_Code/__arm_start.o
+ .bss.Timers    0x1fffe194       0x3c ./Sources/Timer.o
+ .bss.time_counter
+                0x1fffe1d0        0x4 ./Sources/Timer.o
+ .bss.prev_counter
+                0x1fffe1d4        0x4 ./Sources/Timer.o
+ .bss.overflow_counter
+                0x1fffe1d8        0x4 ./Sources/Timer.o
+ .bss.timer_index.5900
+                0x1fffe1dc        0x4 ./Sources/Timer.o
+ .bss.sample_index
+                0x1fffe1e0        0x4 ./Sources/Keyhandler.o
+ .bss.APP_State
+                0x1fffe1e4        0x1 ./Sources/Application.o
+                0x1fffe1e4                APP_State
+ .bss.APP_prev_state
+                0x1fffe1e5        0x1 ./Sources/Application.o
+                0x1fffe1e5                APP_prev_state
+ .bss.APP_Mode  0x1fffe1e6        0x1 ./Sources/Application.o
+                0x1fffe1e6                APP_Mode
+ .bss.Error_ID  0x1fffe1e7        0x1 ./Sources/Application.o
+                0x1fffe1e7                Error_ID
+ .bss.Disp_del_count
+                0x1fffe1e8        0x4 ./Sources/Application.o
+ .bss.Target_P  0x1fffe1ec        0x4 ./Sources/Application.o
+ .bss.prev_temp.6467
+                0x1fffe1f0        0x4 ./Sources/Application.o
+ .bss.prev_pres.6468
+                0x1fffe1f4        0x4 ./Sources/Application.o
+ .bss.sensor_id.5917
+                0x1fffe1f8        0x4 ./Sources/ADC_Handler.o
+ .bss.Adc_sample.5918
+                0x1fffe1fc        0x4 ./Sources/ADC_Handler.o
+ .bss.__stdio_exit
+                0x1fffe200        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+                0x1fffe200                __stdio_exit
+ .bss.__console_exit
+                0x1fffe204        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+                0x1fffe204                __console_exit
+ .bss.__global_destructor_chain
+                0x1fffe208        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+                0x1fffe208                __global_destructor_chain
+ .bss.__S_romp  0x1fffe20c        0xc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+ *(COMMON)
+ COMMON         0x1fffe218      0xf5c ./Generated_Code/MQX1.o
+                0x1fffe218                _mqx_kernel_data_struct
+                0x1fffe44c                mqx_interrupt_stack
+                0x1fffe55c                Task3_task_stack
+                0x1fffe7e4                mqx_static_ready_queue
+                0x1fffe884                mqx_static_isr_table
+                0x1fffe8fc                mqx_idle_task_stack
+                0x1fffea64                Task2_task_stack
+                0x1fffeeec                Task1_task_stack
+ COMMON         0x1ffff174        0x4 ./Sources/Keyhandler.o
+                0x1ffff174                key_status
+ COMMON         0x1ffff178       0x20 ./Sources/Display_HL.o
+                0x1ffff178                Display_Buffer
+ COMMON         0x1ffff198        0xc ./Sources/Application.o
+                0x1ffff198                Target_T
+                0x1ffff19c                Dry_Time
+                0x1ffff1a0                Ster_Time
+ COMMON         0x1ffff1a4       0x60 ./Sources/ADC_Handler.o
+                0x1ffff1a4                Adc_Samples
+                0x1ffff204                . = ALIGN (0x4)
+                0x1ffff204                __END_BSS = .
+                0x1ffff204                PROVIDE (__bss_end__, __END_BSS)
+                0x00006f58                _romp_at = ((___ROM_AT + SIZEOF (.data)) + SIZEOF (.m_data_20000000))
+
+.romp           0x1ffff204       0x24 load address 0x00006f58
+                0x00006f58                __S_romp = _romp_at
+                0x1ffff204        0x4 LONG 0x6ddc ___ROM_AT
+                0x1ffff208        0x4 LONG 0x1fffe000 _sdata
+                0x1ffff20c        0x4 LONG 0x17c ___data_size
+                0x1ffff210        0x4 LONG 0x6f58 ___m_data_20000000_ROMStart
+                0x1ffff214        0x4 LONG 0x20000000 ___m_data_20000000_RAMStart
+                0x1ffff218        0x4 LONG 0x0 ___m_data_20000000_ROMSize
+                0x1ffff21c        0x4 LONG 0x0
+                0x1ffff220        0x4 LONG 0x0
+                0x1ffff224        0x4 LONG 0x0
+
+._user_heap_stack
+                0x1ffff228      0x400 load address 0x00006f7c
+                0x1ffff228                . = ALIGN (0x4)
+                0x1ffff228                PROVIDE (end, .)
+                0x1ffff228                PROVIDE (_end, .)
+                0x1ffff228                __heap_addr = .
+                0x1ffff228                . = (. + __heap_size)
+                0x1ffff628                . = (. + __stack_size)
+ *fill*         0x1ffff228      0x400 00
+                0x1ffff628                . = ALIGN (0x4)
+
+.ARM.attributes
+                0x00000000       0x31
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x33 ./Generated_Code/Vectors.o
+ .ARM.attributes
+                0x00000033       0x33 ./Generated_Code/SystemTimer1.o
+ .ARM.attributes
+                0x00000066       0x33 ./Generated_Code/PE_LDD.o
+ .ARM.attributes
+                0x00000099       0x33 ./Generated_Code/MQX1.o
+ .ARM.attributes
+                0x000000cc       0x33 ./Generated_Code/Cpu.o
+ .ARM.attributes
+                0x000000ff       0x33 ./MQXLITE/kernel/time_ticks.o
+ .ARM.attributes
+                0x00000132       0x33 ./MQXLITE/kernel/task.o
+ .ARM.attributes
+                0x00000165       0x33 ./MQXLITE/kernel/mqxlite.o
+ .ARM.attributes
+                0x00000198       0x33 ./MQXLITE/kernel/mqx_utils.o
+ .ARM.attributes
+                0x000001cb       0x33 ./MQXLITE/kernel/lwsem.o
+ .ARM.attributes
+                0x000001fe       0x33 ./MQXLITE/kernel/int.o
+ .ARM.attributes
+                0x00000231       0x33 ./MQXLITE/kernel/idletask.o
+ .ARM.attributes
+                0x00000264       0x21 ./MQXLITE/psp/cortex_m/core/M4/dispatch.o
+ .ARM.attributes
+                0x00000285       0x21 ./MQXLITE/psp/cortex_m/core/M4/boot.o
+ .ARM.attributes
+                0x000002a6       0x33 ./MQXLITE/psp/cortex_m/stack_de.o
+ .ARM.attributes
+                0x000002d9       0x33 ./MQXLITE/psp/cortex_m/stack_bu.o
+ .ARM.attributes
+                0x0000030c       0x33 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .ARM.attributes
+                0x0000033f       0x33 ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .ARM.attributes
+                0x00000372       0x33 ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .ARM.attributes
+                0x000003a5       0x33 ./MQXLITE/psp/cortex_m/mem_zero.o
+ .ARM.attributes
+                0x000003d8       0x33 ./MQXLITE/psp/cortex_m/int_vtab.o
+ .ARM.attributes
+                0x0000040b       0x33 ./MQXLITE/psp/cortex_m/int_inst.o
+ .ARM.attributes
+                0x0000043e       0x33 ./Project_Settings/Startup_Code/__arm_start.o
+ .ARM.attributes
+                0x00000471       0x33 ./Project_Settings/Startup_Code/__arm_end.o
+ .ARM.attributes
+                0x000004a4       0x33 ./Sources/main.o
+ .ARM.attributes
+                0x000004d7       0x33 ./Sources/Timer.o
+ .ARM.attributes
+                0x0000050a       0x33 ./Sources/Tasks.o
+ .ARM.attributes
+                0x0000053d       0x33 ./Sources/Keyhandler.o
+ .ARM.attributes
+                0x00000570       0x33 ./Sources/Global_Config.o
+ .ARM.attributes
+                0x000005a3       0x33 ./Sources/Events.o
+ .ARM.attributes
+                0x000005d6       0x33 ./Sources/Display_HL.o
+ .ARM.attributes
+                0x00000609       0x33 ./Sources/Digital_IO.o
+ .ARM.attributes
+                0x0000063c       0x33 ./Sources/Application.o
+ .ARM.attributes
+                0x0000066f       0x33 ./Sources/ADC_Lookup.o
+ .ARM.attributes
+                0x000006a2       0x33 ./Sources/ADC_Handler.o
+ .ARM.attributes
+                0x000006d5       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+ .ARM.attributes
+                0x00000708       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+ .ARM.attributes
+                0x0000073b       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+ .ARM.attributes
+                0x0000076e       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+ .ARM.attributes
+                0x000007a1       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .ARM.attributes
+                0x000007d4       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+ .ARM.attributes
+                0x00000807       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .ARM.attributes
+                0x0000083a       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+ .ARM.attributes
+                0x0000086d       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+ .ARM.attributes
+                0x000008a0       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+ .ARM.attributes
+                0x000008d3       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+ .ARM.attributes
+                0x00000906       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+ .ARM.attributes
+                0x00000939       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+ .ARM.attributes
+                0x0000096c       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .ARM.attributes
+                0x0000099f       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .ARM.attributes
+                0x000009d2       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+OUTPUT(rtos_check.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x12599
+ .debug_info    0x00000000      0x288 ./Generated_Code/Vectors.o
+ .debug_info    0x00000288      0x6c3 ./Generated_Code/SystemTimer1.o
+ .debug_info    0x0000094b      0x3e8 ./Generated_Code/PE_LDD.o
+ .debug_info    0x00000d33      0xed5 ./Generated_Code/MQX1.o
+ .debug_info    0x00001c08      0xdad ./Generated_Code/Cpu.o
+ .debug_info    0x000029b5     0x10fa ./MQXLITE/kernel/time_ticks.o
+ .debug_info    0x00003aaf     0x202d ./MQXLITE/kernel/task.o
+ .debug_info    0x00005adc      0xeb8 ./MQXLITE/kernel/mqxlite.o
+ .debug_info    0x00006994      0xc39 ./MQXLITE/kernel/mqx_utils.o
+ .debug_info    0x000075cd     0x111b ./MQXLITE/kernel/lwsem.o
+ .debug_info    0x000086e8      0xe97 ./MQXLITE/kernel/int.o
+ .debug_info    0x0000957f      0xa7a ./MQXLITE/kernel/idletask.o
+ .debug_info    0x00009ff9       0x81 ./MQXLITE/psp/cortex_m/core/M4/dispatch.o
+ .debug_info    0x0000a07a       0x7d ./MQXLITE/psp/cortex_m/core/M4/boot.o
+ .debug_info    0x0000a0f7      0x449 ./MQXLITE/psp/cortex_m/stack_de.o
+ .debug_info    0x0000a540      0x6a0 ./MQXLITE/psp/cortex_m/stack_bu.o
+ .debug_info    0x0000abe0      0xcb2 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .debug_info    0x0000b892      0xafc ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .debug_info    0x0000c38e       0xd7 ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .debug_info    0x0000c465      0x139 ./MQXLITE/psp/cortex_m/mem_zero.o
+ .debug_info    0x0000c59e      0x376 ./MQXLITE/psp/cortex_m/int_vtab.o
+ .debug_info    0x0000c914      0xa67 ./MQXLITE/psp/cortex_m/int_inst.o
+ .debug_info    0x0000d37b      0x12a ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_info    0x0000d4a5       0x54 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_info    0x0000d4f9       0x96 ./Sources/main.o
+ .debug_info    0x0000d58f      0x72c ./Sources/Timer.o
+ .debug_info    0x0000dcbb      0x3d7 ./Sources/Tasks.o
+ .debug_info    0x0000e092      0x530 ./Sources/Keyhandler.o
+ .debug_info    0x0000e5c2      0x698 ./Sources/Global_Config.o
+ .debug_info    0x0000ec5a       0x92 ./Sources/Events.o
+ .debug_info    0x0000ecec      0x737 ./Sources/Display_HL.o
+ .debug_info    0x0000f423      0x51d ./Sources/Digital_IO.o
+ .debug_info    0x0000f940      0x51a ./Sources/Application.o
+ .debug_info    0x0000fe5a      0x195 ./Sources/ADC_Lookup.o
+ .debug_info    0x0000ffef      0x688 ./Sources/ADC_Handler.o
+ .debug_info    0x00010677      0x11e C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+ .debug_info    0x00010795       0xe8 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+ .debug_info    0x0001087d       0xec C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+ .debug_info    0x00010969      0x135 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+ .debug_info    0x00010a9e      0x50e C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .debug_info    0x00010fac      0x565 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+ .debug_info    0x00011511      0x306 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .debug_info    0x00011817      0x205 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+ .debug_info    0x00011a1c      0x1d6 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+ .debug_info    0x00011bf2      0x108 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+ .debug_info    0x00011cfa      0x10f C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+ .debug_info    0x00011e09       0xeb C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+ .debug_info    0x00011ef4      0x120 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+ .debug_info    0x00012014      0x136 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_info    0x0001214a      0x2b5 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_info    0x000123ff      0x19a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+
+.debug_abbrev   0x00000000     0x3410
+ .debug_abbrev  0x00000000       0xb9 ./Generated_Code/Vectors.o
+ .debug_abbrev  0x000000b9      0x1be ./Generated_Code/SystemTimer1.o
+ .debug_abbrev  0x00000277      0x118 ./Generated_Code/PE_LDD.o
+ .debug_abbrev  0x0000038f      0x1a3 ./Generated_Code/MQX1.o
+ .debug_abbrev  0x00000532      0x16e ./Generated_Code/Cpu.o
+ .debug_abbrev  0x000006a0      0x1ad ./MQXLITE/kernel/time_ticks.o
+ .debug_abbrev  0x0000084d      0x21d ./MQXLITE/kernel/task.o
+ .debug_abbrev  0x00000a6a      0x1c6 ./MQXLITE/kernel/mqxlite.o
+ .debug_abbrev  0x00000c30      0x1a4 ./MQXLITE/kernel/mqx_utils.o
+ .debug_abbrev  0x00000dd4      0x191 ./MQXLITE/kernel/lwsem.o
+ .debug_abbrev  0x00000f65      0x190 ./MQXLITE/kernel/int.o
+ .debug_abbrev  0x000010f5      0x12d ./MQXLITE/kernel/idletask.o
+ .debug_abbrev  0x00001222       0x14 ./MQXLITE/psp/cortex_m/core/M4/dispatch.o
+ .debug_abbrev  0x00001236       0x14 ./MQXLITE/psp/cortex_m/core/M4/boot.o
+ .debug_abbrev  0x0000124a       0xd4 ./MQXLITE/psp/cortex_m/stack_de.o
+ .debug_abbrev  0x0000131e      0x10f ./MQXLITE/psp/cortex_m/stack_bu.o
+ .debug_abbrev  0x0000142d      0x178 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .debug_abbrev  0x000015a5      0x13e ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .debug_abbrev  0x000016e3       0x6a ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .debug_abbrev  0x0000174d       0x78 ./MQXLITE/psp/cortex_m/mem_zero.o
+ .debug_abbrev  0x000017c5       0xf7 ./MQXLITE/psp/cortex_m/int_vtab.o
+ .debug_abbrev  0x000018bc      0x117 ./MQXLITE/psp/cortex_m/int_inst.o
+ .debug_abbrev  0x000019d3       0x92 ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_abbrev  0x00001a65       0x4c ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_abbrev  0x00001ab1       0x3f ./Sources/main.o
+ .debug_abbrev  0x00001af0      0x169 ./Sources/Timer.o
+ .debug_abbrev  0x00001c59       0xdf ./Sources/Tasks.o
+ .debug_abbrev  0x00001d38      0x156 ./Sources/Keyhandler.o
+ .debug_abbrev  0x00001e8e       0xf9 ./Sources/Global_Config.o
+ .debug_abbrev  0x00001f87       0x3d ./Sources/Events.o
+ .debug_abbrev  0x00001fc4      0x1ce ./Sources/Display_HL.o
+ .debug_abbrev  0x00002192      0x148 ./Sources/Digital_IO.o
+ .debug_abbrev  0x000022da      0x10e ./Sources/Application.o
+ .debug_abbrev  0x000023e8       0xa5 ./Sources/ADC_Lookup.o
+ .debug_abbrev  0x0000248d      0x17f ./Sources/ADC_Handler.o
+ .debug_abbrev  0x0000260c       0xb1 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+ .debug_abbrev  0x000026bd       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+ .debug_abbrev  0x00002737       0x62 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+ .debug_abbrev  0x00002799       0x87 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+ .debug_abbrev  0x00002820      0x200 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .debug_abbrev  0x00002a20      0x1f0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+ .debug_abbrev  0x00002c10       0x85 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .debug_abbrev  0x00002c95       0xf0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+ .debug_abbrev  0x00002d85       0xc2 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+ .debug_abbrev  0x00002e47       0x89 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+ .debug_abbrev  0x00002ed0       0x95 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+ .debug_abbrev  0x00002f65       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+ .debug_abbrev  0x00002fdf       0x95 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+ .debug_abbrev  0x00003074       0x99 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_abbrev  0x0000310d      0x1cc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_abbrev  0x000032d9      0x137 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+
+.debug_aranges  0x00000000      0xbe8
+ .debug_aranges
+                0x00000000       0x18 ./Generated_Code/Vectors.o
+ .debug_aranges
+                0x00000018       0x60 ./Generated_Code/SystemTimer1.o
+ .debug_aranges
+                0x00000078       0x30 ./Generated_Code/PE_LDD.o
+ .debug_aranges
+                0x000000a8       0x40 ./Generated_Code/MQX1.o
+ .debug_aranges
+                0x000000e8       0x40 ./Generated_Code/Cpu.o
+ .debug_aranges
+                0x00000128       0xb8 ./MQXLITE/kernel/time_ticks.o
+ .debug_aranges
+                0x000001e0      0x160 ./MQXLITE/kernel/task.o
+ .debug_aranges
+                0x00000340       0x30 ./MQXLITE/kernel/mqxlite.o
+ .debug_aranges
+                0x00000370       0x60 ./MQXLITE/kernel/mqx_utils.o
+ .debug_aranges
+                0x000003d0       0x80 ./MQXLITE/kernel/lwsem.o
+ .debug_aranges
+                0x00000450       0x90 ./MQXLITE/kernel/int.o
+ .debug_aranges
+                0x000004e0       0x20 ./MQXLITE/kernel/idletask.o
+ .debug_aranges
+                0x00000500       0x20 ./MQXLITE/psp/cortex_m/core/M4/dispatch.o
+ .debug_aranges
+                0x00000520       0x20 ./MQXLITE/psp/cortex_m/core/M4/boot.o
+ .debug_aranges
+                0x00000540       0x20 ./MQXLITE/psp/cortex_m/stack_de.o
+ .debug_aranges
+                0x00000560       0x20 ./MQXLITE/psp/cortex_m/stack_bu.o
+ .debug_aranges
+                0x00000580       0x28 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .debug_aranges
+                0x000005a8       0x20 ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .debug_aranges
+                0x000005c8       0x20 ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .debug_aranges
+                0x000005e8       0x20 ./MQXLITE/psp/cortex_m/mem_zero.o
+ .debug_aranges
+                0x00000608       0x28 ./MQXLITE/psp/cortex_m/int_vtab.o
+ .debug_aranges
+                0x00000630       0x20 ./MQXLITE/psp/cortex_m/int_inst.o
+ .debug_aranges
+                0x00000650       0x30 ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_aranges
+                0x00000680       0x20 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_aranges
+                0x000006a0       0x20 ./Sources/main.o
+ .debug_aranges
+                0x000006c0       0x58 ./Sources/Timer.o
+ .debug_aranges
+                0x00000718       0x30 ./Sources/Tasks.o
+ .debug_aranges
+                0x00000748       0x40 ./Sources/Keyhandler.o
+ .debug_aranges
+                0x00000788       0x18 ./Sources/Global_Config.o
+ .debug_aranges
+                0x000007a0       0x20 ./Sources/Events.o
+ .debug_aranges
+                0x000007c0       0x60 ./Sources/Display_HL.o
+ .debug_aranges
+                0x00000820       0x38 ./Sources/Digital_IO.o
+ .debug_aranges
+                0x00000858       0x70 ./Sources/Application.o
+ .debug_aranges
+                0x000008c8       0x28 ./Sources/ADC_Lookup.o
+ .debug_aranges
+                0x000008f0       0x30 ./Sources/ADC_Handler.o
+ .debug_aranges
+                0x00000920       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+ .debug_aranges
+                0x00000940       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+ .debug_aranges
+                0x00000960       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+ .debug_aranges
+                0x00000980       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+ .debug_aranges
+                0x000009a0       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .debug_aranges
+                0x000009c8       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+ .debug_aranges
+                0x000009e8       0x88 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .debug_aranges
+                0x00000a70       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+ .debug_aranges
+                0x00000a98       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+ .debug_aranges
+                0x00000ab8       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+ .debug_aranges
+                0x00000ad8       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+ .debug_aranges
+                0x00000af8       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+ .debug_aranges
+                0x00000b18       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+ .debug_aranges
+                0x00000b38       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_aranges
+                0x00000b60       0x58 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_aranges
+                0x00000bb8       0x30 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+
+.debug_macinfo  0x00000000   0x8da886
+ .debug_macinfo
+                0x00000000    0x4acbe ./Generated_Code/Vectors.o
+ .debug_macinfo
+                0x0004acbe    0x4accf ./Generated_Code/SystemTimer1.o
+ .debug_macinfo
+                0x0009598d    0x4ac57 ./Generated_Code/PE_LDD.o
+ .debug_macinfo
+                0x000e05e4    0x4ad4b ./Generated_Code/MQX1.o
+ .debug_macinfo
+                0x0012b32f    0x4ac80 ./Generated_Code/Cpu.o
+ .debug_macinfo
+                0x00175faf    0x4b7e6 ./MQXLITE/kernel/time_ticks.o
+ .debug_macinfo
+                0x001c1795    0x4b88b ./MQXLITE/kernel/task.o
+ .debug_macinfo
+                0x0020d020    0x4b820 ./MQXLITE/kernel/mqxlite.o
+ .debug_macinfo
+                0x00258840    0x4b820 ./MQXLITE/kernel/mqx_utils.o
+ .debug_macinfo
+                0x002a4060    0x4b794 ./MQXLITE/kernel/lwsem.o
+ .debug_macinfo
+                0x002ef7f4    0x4b794 ./MQXLITE/kernel/int.o
+ .debug_macinfo
+                0x0033af88    0x4b794 ./MQXLITE/kernel/idletask.o
+ .debug_macinfo
+                0x0038671c    0x4b794 ./MQXLITE/psp/cortex_m/stack_de.o
+ .debug_macinfo
+                0x003d1eb0    0x4b794 ./MQXLITE/psp/cortex_m/stack_bu.o
+ .debug_macinfo
+                0x0041d644    0x4b794 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .debug_macinfo
+                0x00468dd8    0x4b794 ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .debug_macinfo
+                0x004b456c    0x4b794 ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .debug_macinfo
+                0x004ffd00    0x4b794 ./MQXLITE/psp/cortex_m/mem_zero.o
+ .debug_macinfo
+                0x0054b494    0x4b794 ./MQXLITE/psp/cortex_m/int_vtab.o
+ .debug_macinfo
+                0x00596c28    0x4b794 ./MQXLITE/psp/cortex_m/int_inst.o
+ .debug_macinfo
+                0x005e23bc     0x3f3e ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_macinfo
+                0x005e62fa     0x3527 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_macinfo
+                0x005e9821    0x4ad38 ./Sources/main.o
+ .debug_macinfo
+                0x00634559    0x41496 ./Sources/Timer.o
+ .debug_macinfo
+                0x006759ef    0x4b2db ./Sources/Tasks.o
+ .debug_macinfo
+                0x006c0cca    0x41483 ./Sources/Keyhandler.o
+ .debug_macinfo
+                0x0070214d    0x414b2 ./Sources/Global_Config.o
+ .debug_macinfo
+                0x007435ff    0x4acbe ./Sources/Events.o
+ .debug_macinfo
+                0x0078e2bd    0x46f24 ./Sources/Display_HL.o
+ .debug_macinfo
+                0x007d51e1    0x41483 ./Sources/Digital_IO.o
+ .debug_macinfo
+                0x00816664    0x41df5 ./Sources/Application.o
+ .debug_macinfo
+                0x00858459    0x40f94 ./Sources/ADC_Lookup.o
+ .debug_macinfo
+                0x008993ed    0x41499 ./Sources/ADC_Handler.o
+
+.debug_line     0x00000000     0xb643
+ .debug_line    0x00000000      0x4f3 ./Generated_Code/Vectors.o
+ .debug_line    0x000004f3      0x522 ./Generated_Code/SystemTimer1.o
+ .debug_line    0x00000a15      0x4ab ./Generated_Code/PE_LDD.o
+ .debug_line    0x00000ec0      0x548 ./Generated_Code/MQX1.o
+ .debug_line    0x00001408      0x573 ./Generated_Code/Cpu.o
+ .debug_line    0x0000197b      0x76b ./MQXLITE/kernel/time_ticks.o
+ .debug_line    0x000020e6      0xa6e ./MQXLITE/kernel/task.o
+ .debug_line    0x00002b54      0x5b0 ./MQXLITE/kernel/mqxlite.o
+ .debug_line    0x00003104      0x5fa ./MQXLITE/kernel/mqx_utils.o
+ .debug_line    0x000036fe      0x700 ./MQXLITE/kernel/lwsem.o
+ .debug_line    0x00003dfe      0x68b ./MQXLITE/kernel/int.o
+ .debug_line    0x00004489      0x510 ./MQXLITE/kernel/idletask.o
+ .debug_line    0x00004999      0x17a ./MQXLITE/psp/cortex_m/core/M4/dispatch.o
+ .debug_line    0x00004b13       0x71 ./MQXLITE/psp/cortex_m/core/M4/boot.o
+ .debug_line    0x00004b84      0x513 ./MQXLITE/psp/cortex_m/stack_de.o
+ .debug_line    0x00005097      0x525 ./MQXLITE/psp/cortex_m/stack_bu.o
+ .debug_line    0x000055bc      0x554 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .debug_line    0x00005b10      0x519 ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .debug_line    0x00006029      0x518 ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .debug_line    0x00006541      0x556 ./MQXLITE/psp/cortex_m/mem_zero.o
+ .debug_line    0x00006a97      0x52a ./MQXLITE/psp/cortex_m/int_vtab.o
+ .debug_line    0x00006fc1      0x517 ./MQXLITE/psp/cortex_m/int_inst.o
+ .debug_line    0x000074d8      0x29d ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_line    0x00007775      0x26d ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_line    0x000079e2      0x50e ./Sources/main.o
+ .debug_line    0x00007ef0      0x364 ./Sources/Timer.o
+ .debug_line    0x00008254      0x555 ./Sources/Tasks.o
+ .debug_line    0x000087a9      0x32f ./Sources/Keyhandler.o
+ .debug_line    0x00008ad8      0x2c2 ./Sources/Global_Config.o
+ .debug_line    0x00008d9a      0x479 ./Sources/Events.o
+ .debug_line    0x00009213      0x573 ./Sources/Display_HL.o
+ .debug_line    0x00009786      0x352 ./Sources/Digital_IO.o
+ .debug_line    0x00009ad8      0x59d ./Sources/Application.o
+ .debug_line    0x0000a075      0x2bb ./Sources/ADC_Lookup.o
+ .debug_line    0x0000a330      0x31c ./Sources/ADC_Handler.o
+ .debug_line    0x0000a64c       0x94 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+ .debug_line    0x0000a6e0       0x94 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+ .debug_line    0x0000a774       0x8f C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+ .debug_line    0x0000a803       0xcd C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+ .debug_line    0x0000a8d0      0x2b4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .debug_line    0x0000ab84      0x2df C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+ .debug_line    0x0000ae63      0x1a9 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .debug_line    0x0000b00c       0xd1 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+ .debug_line    0x0000b0dd      0x11b C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+ .debug_line    0x0000b1f8       0x7d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+ .debug_line    0x0000b275       0x8b C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+ .debug_line    0x0000b300       0x83 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+ .debug_line    0x0000b383       0x9f C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+ .debug_line    0x0000b422       0x67 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_line    0x0000b489      0x111 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_line    0x0000b59a       0xa9 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+
+.debug_str      0x00000000     0x3ed0
+ .debug_str     0x00000000      0x43f ./Generated_Code/Vectors.o
+                                0x472 (size before relaxing)
+ .debug_str     0x0000043f      0x2fe ./Generated_Code/SystemTimer1.o
+                                0x729 (size before relaxing)
+ .debug_str     0x0000073d      0x17f ./Generated_Code/PE_LDD.o
+                                0x5e5 (size before relaxing)
+ .debug_str     0x000008bc      0xa63 ./Generated_Code/MQX1.o
+                                0xf7d (size before relaxing)
+ .debug_str     0x0000131f      0x2ea ./Generated_Code/Cpu.o
+                                0x9a9 (size before relaxing)
+ .debug_str     0x00001609      0x2b8 ./MQXLITE/kernel/time_ticks.o
+                                0xd05 (size before relaxing)
+ .debug_str     0x000018c1      0x6d5 ./MQXLITE/kernel/task.o
+                               0x14cb (size before relaxing)
+ .debug_str     0x00001f96      0x132 ./MQXLITE/kernel/mqxlite.o
+                                0xef5 (size before relaxing)
+ .debug_str     0x000020c8      0x147 ./MQXLITE/kernel/mqx_utils.o
+                                0xb90 (size before relaxing)
+ .debug_str     0x0000220f      0x145 ./MQXLITE/kernel/lwsem.o
+                                0xc0f (size before relaxing)
+ .debug_str     0x00002354      0x1c0 ./MQXLITE/kernel/int.o
+                                0xc67 (size before relaxing)
+ .debug_str     0x00002514       0x2c ./MQXLITE/kernel/idletask.o
+                                0xa2d (size before relaxing)
+ .debug_str     0x00002540       0x3c ./MQXLITE/psp/cortex_m/stack_de.o
+                                0x43f (size before relaxing)
+ .debug_str     0x0000257c       0x59 ./MQXLITE/psp/cortex_m/stack_bu.o
+                                0x59e (size before relaxing)
+ .debug_str     0x000025d5       0x65 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+                                0xb69 (size before relaxing)
+ .debug_str     0x0000263a       0x38 ./MQXLITE/psp/cortex_m/psp_tinm.o
+                                0xa73 (size before relaxing)
+ .debug_str     0x00002672       0x32 ./MQXLITE/psp/cortex_m/psp_iinit.o
+                                0x195 (size before relaxing)
+ .debug_str     0x000026a4       0x83 ./MQXLITE/psp/cortex_m/mem_zero.o
+                                0x1bb (size before relaxing)
+ .debug_str     0x00002727      0x148 ./MQXLITE/psp/cortex_m/int_vtab.o
+                                0x2ae (size before relaxing)
+ .debug_str     0x0000286f       0x34 ./MQXLITE/psp/cortex_m/int_inst.o
+                                0xa2b (size before relaxing)
+ .debug_str     0x000028a3       0x85 ./Project_Settings/Startup_Code/__arm_start.o
+                                0x197 (size before relaxing)
+ .debug_str     0x00002928       0x3a ./Project_Settings/Startup_Code/__arm_end.o
+                                 0xce (size before relaxing)
+ .debug_str     0x00002962       0x17 ./Sources/main.o
+                                0x129 (size before relaxing)
+ .debug_str     0x00002979      0x1ee ./Sources/Timer.o
+                                0x421 (size before relaxing)
+ .debug_str     0x00002b67      0x17b ./Sources/Tasks.o
+                                0x665 (size before relaxing)
+ .debug_str     0x00002ce2      0x12c ./Sources/Keyhandler.o
+                                0x36d (size before relaxing)
+ .debug_str     0x00002e0e      0x24e ./Sources/Global_Config.o
+                                0x58f (size before relaxing)
+ .debug_str     0x0000305c       0x21 ./Sources/Events.o
+                                0x133 (size before relaxing)
+ .debug_str     0x0000307d       0xb3 ./Sources/Display_HL.o
+                                0x4cf (size before relaxing)
+ .debug_str     0x00003130       0x6f ./Sources/Digital_IO.o
+                                0x54c (size before relaxing)
+ .debug_str     0x0000319f      0x376 ./Sources/Application.o
+                                0x61b (size before relaxing)
+ .debug_str     0x00003515       0x5a ./Sources/ADC_Lookup.o
+                                0x17e (size before relaxing)
+ .debug_str     0x0000356f       0x67 ./Sources/ADC_Handler.o
+                                0x3cf (size before relaxing)
+ .debug_str     0x000035d6       0x56 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x0000362c       0x2e C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+                                0x157 (size before relaxing)
+ .debug_str     0x0000365a       0x23 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+                                0x140 (size before relaxing)
+ .debug_str     0x0000367d       0x2d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+                                0x152 (size before relaxing)
+ .debug_str     0x000036aa      0x21a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+                                0x3b3 (size before relaxing)
+ .debug_str     0x000038c4      0x184 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+                                0x3f9 (size before relaxing)
+ .debug_str     0x00003a48       0x9d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+                                0x1bc (size before relaxing)
+ .debug_str     0x00003ae5       0x7c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+                                0x1cc (size before relaxing)
+ .debug_str     0x00003b61       0x55 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+                                0x1fb (size before relaxing)
+ .debug_str     0x00003bb6       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+                                0x137 (size before relaxing)
+ .debug_str     0x00003bd2       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+                                0x138 (size before relaxing)
+ .debug_str     0x00003bee       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+                                0x140 (size before relaxing)
+ .debug_str     0x00003c0a       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+                                0x148 (size before relaxing)
+ .debug_str     0x00003c26      0x126 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+                                0x181 (size before relaxing)
+ .debug_str     0x00003d4c       0xe9 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+                                0x1b5 (size before relaxing)
+ .debug_str     0x00003e35       0x9b C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+                                0x13c (size before relaxing)
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 ./Generated_Code/Vectors.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000000       0x7a ./Generated_Code/SystemTimer1.o
+ .comment       0x00000000       0x7a ./Generated_Code/PE_LDD.o
+ .comment       0x00000000       0x7a ./Generated_Code/MQX1.o
+ .comment       0x00000000       0x7a ./Generated_Code/Cpu.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/time_ticks.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/task.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/mqxlite.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/mqx_utils.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/lwsem.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/int.o
+ .comment       0x00000000       0x7a ./MQXLITE/kernel/idletask.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/stack_de.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/stack_bu.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/mem_zero.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/int_vtab.o
+ .comment       0x00000000       0x7a ./MQXLITE/psp/cortex_m/int_inst.o
+ .comment       0x00000000       0x7a ./Project_Settings/Startup_Code/__arm_start.o
+ .comment       0x00000000       0x7a ./Project_Settings/Startup_Code/__arm_end.o
+ .comment       0x00000000       0x7a ./Sources/main.o
+ .comment       0x00000000       0x7a ./Sources/Timer.o
+ .comment       0x00000000       0x7a ./Sources/Tasks.o
+ .comment       0x00000000       0x7a ./Sources/Keyhandler.o
+ .comment       0x00000000       0x7a ./Sources/Global_Config.o
+ .comment       0x00000000       0x7a ./Sources/Events.o
+ .comment       0x00000000       0x7a ./Sources/Display_HL.o
+ .comment       0x00000000       0x7a ./Sources/Digital_IO.o
+ .comment       0x00000000       0x7a ./Sources/Application.o
+ .comment       0x00000000       0x7a ./Sources/ADC_Lookup.o
+ .comment       0x00000000       0x7a ./Sources/ADC_Handler.o
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+
+.debug_loc      0x00000000     0x465e
+ .debug_loc     0x00000000      0x1f8 ./Generated_Code/SystemTimer1.o
+ .debug_loc     0x000001f8       0x9c ./Generated_Code/PE_LDD.o
+ .debug_loc     0x00000294      0x118 ./Generated_Code/MQX1.o
+ .debug_loc     0x000003ac       0xe8 ./Generated_Code/Cpu.o
+ .debug_loc     0x00000494      0x40c ./MQXLITE/kernel/time_ticks.o
+ .debug_loc     0x000008a0      0x8c6 ./MQXLITE/kernel/task.o
+ .debug_loc     0x00001166       0xa8 ./MQXLITE/kernel/mqxlite.o
+ .debug_loc     0x0000120e      0x1ec ./MQXLITE/kernel/mqx_utils.o
+ .debug_loc     0x000013fa      0x2d8 ./MQXLITE/kernel/lwsem.o
+ .debug_loc     0x000016d2      0x348 ./MQXLITE/kernel/int.o
+ .debug_loc     0x00001a1a       0x38 ./MQXLITE/kernel/idletask.o
+ .debug_loc     0x00001a52       0x38 ./MQXLITE/psp/cortex_m/stack_de.o
+ .debug_loc     0x00001a8a       0x38 ./MQXLITE/psp/cortex_m/stack_bu.o
+ .debug_loc     0x00001ac2       0x70 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .debug_loc     0x00001b32       0x38 ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .debug_loc     0x00001b6a       0x38 ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .debug_loc     0x00001ba2       0x38 ./MQXLITE/psp/cortex_m/mem_zero.o
+ .debug_loc     0x00001bda       0x64 ./MQXLITE/psp/cortex_m/int_vtab.o
+ .debug_loc     0x00001c3e       0x38 ./MQXLITE/psp/cortex_m/int_inst.o
+ .debug_loc     0x00001c76       0x2c ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_loc     0x00001ca2       0x38 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_loc     0x00001cda       0x2c ./Sources/main.o
+ .debug_loc     0x00001d06      0x19c ./Sources/Timer.o
+ .debug_loc     0x00001ea2       0xa8 ./Sources/Tasks.o
+ .debug_loc     0x00001f4a      0x118 ./Sources/Keyhandler.o
+ .debug_loc     0x00002062       0x2c ./Sources/Events.o
+ .debug_loc     0x0000208e      0x1c8 ./Sources/Display_HL.o
+ .debug_loc     0x00002256       0xe0 ./Sources/Digital_IO.o
+ .debug_loc     0x00002336      0x22c ./Sources/Application.o
+ .debug_loc     0x00002562       0x70 ./Sources/ADC_Lookup.o
+ .debug_loc     0x000025d2       0xa8 ./Sources/ADC_Handler.o
+ .debug_loc     0x0000267a       0x3f C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+ .debug_loc     0x000026b9       0x3e C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+ .debug_loc     0x000026f7       0x64 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+ .debug_loc     0x0000275b      0x12c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+ .debug_loc     0x00002887      0xbdc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .debug_loc     0x00003463      0x8b6 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+ .debug_loc     0x00003d19      0x18e C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .debug_loc     0x00003ea7      0x105 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+ .debug_loc     0x00003fac      0x2bb C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+ .debug_loc     0x00004267       0x7c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+ .debug_loc     0x000042e3       0x59 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+ .debug_loc     0x0000433c       0x26 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+ .debug_loc     0x00004362       0x62 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+ .debug_loc     0x000043c4       0x9d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_loc     0x00004461      0x144 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_loc     0x000045a5       0xb9 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)
+
+.debug_frame    0x00000000     0x1c68
+ .debug_frame   0x00000000      0x11c ./Generated_Code/SystemTimer1.o
+ .debug_frame   0x0000011c       0x64 ./Generated_Code/PE_LDD.o
+ .debug_frame   0x00000180       0xb0 ./Generated_Code/MQX1.o
+ .debug_frame   0x00000230       0x9c ./Generated_Code/Cpu.o
+ .debug_frame   0x000002cc      0x2a0 ./MQXLITE/kernel/time_ticks.o
+ .debug_frame   0x0000056c      0x50c ./MQXLITE/kernel/task.o
+ .debug_frame   0x00000a78       0x74 ./MQXLITE/kernel/mqxlite.o
+ .debug_frame   0x00000aec      0x110 ./MQXLITE/kernel/mqx_utils.o
+ .debug_frame   0x00000bfc      0x1b0 ./MQXLITE/kernel/lwsem.o
+ .debug_frame   0x00000dac      0x1d8 ./MQXLITE/kernel/int.o
+ .debug_frame   0x00000f84       0x2c ./MQXLITE/kernel/idletask.o
+ .debug_frame   0x00000fb0       0x2c ./MQXLITE/psp/cortex_m/stack_de.o
+ .debug_frame   0x00000fdc       0x30 ./MQXLITE/psp/cortex_m/stack_bu.o
+ .debug_frame   0x0000100c       0x48 ./MQXLITE/psp/cortex_m/sc_irdyq.o
+ .debug_frame   0x00001054       0x30 ./MQXLITE/psp/cortex_m/psp_tinm.o
+ .debug_frame   0x00001084       0x30 ./MQXLITE/psp/cortex_m/psp_iinit.o
+ .debug_frame   0x000010b4       0x30 ./MQXLITE/psp/cortex_m/mem_zero.o
+ .debug_frame   0x000010e4       0x44 ./MQXLITE/psp/cortex_m/int_vtab.o
+ .debug_frame   0x00001128       0x30 ./MQXLITE/psp/cortex_m/int_inst.o
+ .debug_frame   0x00001158       0x4c ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_frame   0x000011a4       0x2c ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_frame   0x000011d0       0x2c ./Sources/main.o
+ .debug_frame   0x000011fc       0xf0 ./Sources/Timer.o
+ .debug_frame   0x000012ec       0x70 ./Sources/Tasks.o
+ .debug_frame   0x0000135c       0xa8 ./Sources/Keyhandler.o
+ .debug_frame   0x00001404       0x28 ./Sources/Events.o
+ .debug_frame   0x0000142c      0x11c ./Sources/Display_HL.o
+ .debug_frame   0x00001548       0x88 ./Sources/Digital_IO.o
+ .debug_frame   0x000015d0      0x160 ./Sources/Application.o
+ .debug_frame   0x00001730       0x50 ./Sources/ADC_Lookup.o
+ .debug_frame   0x00001780       0x64 ./Sources/ADC_Handler.o
+ .debug_frame   0x000017e4       0x34 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(sprintf.o)
+ .debug_frame   0x00001818       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(exit.o)
+ .debug_frame   0x00001840       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memset.o)
+ .debug_frame   0x00001868       0x2c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__filll_mem.o)
+ .debug_frame   0x00001894       0x64 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(printformat_.o)
+ .debug_frame   0x000018f8       0x3c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(scanformat_.o)
+ .debug_frame   0x00001934       0xf0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(ctype_aeabi.o)
+ .debug_frame   0x00001a24       0x4c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(vsnprintf.o)
+ .debug_frame   0x00001a70       0x3c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(__strtoul.o)
+ .debug_frame   0x00001aac       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strchr.o)
+ .debug_frame   0x00001acc       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memcpy.o)
+ .debug_frame   0x00001af4       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(strlen.o)
+ .debug_frame   0x00001b14       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\libc.a(memchr.o)
+ .debug_frame   0x00001b34       0x40 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(gcc_ctor_dtor.o)
+ .debug_frame   0x00001b74       0xac C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(__arm_eabi_init.o)
+ .debug_frame   0x00001c20       0x48 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv7e-m\librt.a(ROMCopy.o)

@@ -1,0 +1,17 @@
+-mcpu=cortex-m4
+-mthumb
+-mfloat-abi=soft
+-g3
+-gdwarf-2
+-gstrict-dwarf
+-x assembler-with-cpp
+-I"C:/Workfolder/1/phos/PHOS_WS/rtos_check/Generated_Code"
+-I"C:/Workfolder/1/phos/PHOS_WS/rtos_check/MQXLITE/include"
+-I"C:/Workfolder/1/phos/PHOS_WS/rtos_check/MQXLITE/config"
+-I"C:/Workfolder/1/phos/PHOS_WS/rtos_check/MQXLITE/kernel"
+-I"C:/Workfolder/1/phos/PHOS_WS/rtos_check/MQXLITE/psp/cortex_m"
+-I"C:/Workfolder/1/phos/PHOS_WS/rtos_check/MQXLITE/psp/cortex_m/core/M4"
+-I"C:/Workfolder/1/phos/PHOS_WS/rtos_check/MQXLITE/psp/cortex_m/compiler/cwgcc"
+-Wall
+-c
+-fmessage-length=0
